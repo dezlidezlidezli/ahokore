@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri /Users/malakai/Documents/akohore/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name custom-parts)(type KiCad)(uri /Users/malakai/Documents/akohore/custom-parts.pretty)(options "")(descr ""))
+)
