@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFF7FF)
+    (visible_elements FFFFFFFF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -232,7 +232,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F917BE1)
-    (at -30.354294 -31.950473 355)
+    (at -30.420334 -38.099813 355)
     (path /5F90B79B)
     (fp_text reference SW26 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -277,7 +277,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90AF20)
-    (at -12.586206 -28.513804 355)
+    (at -12.652246 -34.663144 355)
     (path /5F9104AD)
     (fp_text reference SW27 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -322,7 +322,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90B9E1)
-    (at 73.351796 -11.92379 15)
+    (at 74.327156 -18.02741 15)
     (path /5F98D876)
     (fp_text reference SW37 (at 0 -7.14375 195) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -367,7 +367,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90B81F)
-    (at 80.356902 -32.040624 5)
+    (at 81.332262 -38.144244 5)
     (path /5F97DB2B)
     (fp_text reference SW29 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -410,7 +410,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F909296)
-    (at -4.727929 -5.158716 335)
+    (at -4.793969 -11.308056 335)
     (path /5F986F42)
     (fp_text reference SW35 (at 0 -7.14375 335) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -455,7 +455,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90BA77)
-    (at 96.383677 -55.317529 5)
+    (at 97.359037 -61.421149 5)
     (path /5F97DB01)
     (fp_text reference SW20 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -500,7 +500,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90B900)
-    (at 59.627318 -62.390913 5)
+    (at 60.602678 -68.494533 5)
     (path /5F97DAAD)
     (fp_text reference SW8 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -545,7 +545,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90B94B)
-    (at 92.826558 -16.046817 10)
+    (at 93.801918 -22.150437 10)
     (path /5F98D884)
     (fp_text reference SW38 (at 0 -7.14375 190) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -590,7 +590,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6D32)
-    (at 54.834722 -5.344886 25)
+    (at 55.810082 -11.448506 25)
     (path /5F98D868)
     (fp_text reference SW36 (at 0 -7.14375 205) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -635,7 +635,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F917C5A)
-    (at -23.334965 -11.858492 345)
+    (at -23.401005 -18.007832 345)
     (path /5F986F34)
     (fp_text reference SW34 (at 0 -7.14375 345) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -680,7 +680,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F917814)
-    (at -42.799765 -15.980647 350)
+    (at -42.865805 -22.129987 350)
     (path /5F986F26)
     (fp_text reference SW33 (at 0 -7.14375 350) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -725,7 +725,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90B8B5)
-    (at 135.184269 -24.878393 5)
+    (at 136.159629 -30.982013 5)
     (path /5F97DB71)
     (fp_text reference SW32 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -770,7 +770,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90BBEE)
-    (at 116.18685 -35.493046 5)
+    (at 117.16221 -41.596666 5)
     (path /5F97DB47)
     (fp_text reference SW31 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -815,7 +815,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90BA2C)
-    (at 97.865323 -38.382216 5)
+    (at 98.840683 -44.485836 5)
     (path /5F97DB39)
     (fp_text reference SW30 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -860,7 +860,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90BAC2)
-    (at 62.590618 -28.520296 5)
+    (at 63.565978 -34.623916 5)
     (path /5F97DB1D)
     (fp_text reference SW28 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -905,7 +905,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90A687)
-    (at -47.860914 -38.375725 355)
+    (at -47.926954 -44.525065 355)
     (path /5F90B78D)
     (fp_text reference SW25 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -950,7 +950,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6C06)
-    (at -66.182441 -35.486557 355)
+    (at -66.248481 -41.635897 355)
     (path /5F90B77F)
     (fp_text reference SW24 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -995,7 +995,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6BED)
-    (at -85.17986 -24.871899 355)
+    (at -85.2459 -31.021239 355)
     (path /5F90B771)
     (fp_text reference SW23 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1040,7 +1040,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90BB0D)
-    (at 133.702187 -41.818683 5)
+    (at 134.677547 -47.922303 5)
     (path /5F97DB63)
     (fp_text reference SW22 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1085,7 +1085,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90BB58)
-    (at 114.704767 -52.433336 5)
+    (at 115.680127 -58.536956 5)
     (path /5F97DB0F)
     (fp_text reference SW21 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1130,7 +1130,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90B996)
-    (at 78.87662 -48.897257 5)
+    (at 79.85198 -55.000877 5)
     (path /5F97DAD7)
     (fp_text reference SW19 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1175,7 +1175,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90BBA3)
-    (at 61.108966 -45.455607 5)
+    (at 62.084326 -51.559227 5)
     (path /5F97DAC9)
     (fp_text reference SW18 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1220,7 +1220,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6B57)
-    (at -11.104559 -45.449114 355)
+    (at -11.170599 -51.598454 355)
     (path /5F91049F)
     (fp_text reference SW17 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1265,7 +1265,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6B3E)
-    (at -28.872211 -48.890763 355)
+    (at -28.938251 -55.040103 355)
     (path /5F901B73)
     (fp_text reference SW16 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1310,7 +1310,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90A81A)
-    (at -46.379267 -55.311035 355)
+    (at -46.445307 -61.460375 355)
     (path /5F901B65)
     (fp_text reference SW15 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1355,7 +1355,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F902688)
-    (at -64.700357 -52.426848 355)
+    (at -64.766397 -58.576188 355)
     (path /5F8F50A9)
     (fp_text reference SW14 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1400,7 +1400,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6AF3)
-    (at -83.697777 -41.81219 355)
+    (at -83.763817 -47.96153 355)
     (path /5F8F4125)
     (fp_text reference SW13 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1445,7 +1445,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90BC39)
-    (at 132.220538 -58.753995 5)
+    (at 133.195898 -64.857615 5)
     (path /5F97DB55)
     (fp_text reference SW12 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1490,7 +1490,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6AC1)
-    (at 113.223119 -69.368649 5)
+    (at 114.198479 -75.472269 5)
     (path /5F97DAF3)
     (fp_text reference SW11 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1535,7 +1535,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6AA8)
-    (at 94.902903 -72.242874 5)
+    (at 95.878263 -78.346494 5)
     (path /5F97DAE5)
     (fp_text reference SW10 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1580,7 +1580,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F90B86A)
-    (at 77.394972 -65.832565 5)
+    (at 78.370332 -71.936185 5)
     (path /5F97DABB)
     (fp_text reference SW9 (at 0 -7.14375 185) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1625,7 +1625,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6A5D)
-    (at -9.622911 -62.384424 355)
+    (at -9.688951 -68.533764 355)
     (path /5F910491)
     (fp_text reference SW7 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1670,7 +1670,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8F6A44)
-    (at -27.390563 -65.826073 355)
+    (at -27.456603 -71.975413 355)
     (path /5F901B57)
     (fp_text reference SW6 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1715,7 +1715,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F902366)
-    (at -44.818491 -72.116383 355)
+    (at -44.884531 -78.265723 355)
     (path /5F901B49)
     (fp_text reference SW5 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1760,7 +1760,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F8FFF7A)
-    (at -63.21871 -69.362158 355)
+    (at -63.28475 -75.511498 355)
     (path /5F8F2895)
     (fp_text reference SW4 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1805,7 +1805,7 @@
   )
 
   (module custom-parts:customchocfootprint (layer F.Cu) (tedit 5F8F61F0) (tstamp 5F908DB0)
-    (at -82.216129 -58.7475 355)
+    (at -82.282169 -64.89684 355)
     (path /5F8EDC7E)
     (fp_text reference SW3 (at 0 -7.14375 355) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.2)))
@@ -1850,7 +1850,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B7E0)
-    (at 89.97198 -21.43888 10)
+    (at 90.94734 -27.5425 10)
     (path /5F98D88A)
     (attr smd)
     (fp_text reference D36 (at -0.0254 1.4 10) (layer B.SilkS)
@@ -1889,7 +1889,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B7A7)
-    (at 70.037296 -17.028346 15)
+    (at 71.012656 -23.131966 15)
     (path /5F98D87C)
     (attr smd)
     (fp_text reference D35 (at -0.0254 1.4 15) (layer B.SilkS)
@@ -1928,7 +1928,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B76E)
-    (at 50.652169 -9.787835 25)
+    (at 51.627529 -15.891455 25)
     (path /5F98D86E)
     (attr smd)
     (fp_text reference D34 (at -0.0254 1.4 25) (layer B.SilkS)
@@ -1967,7 +1967,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F697C)
-    (at -4.0845 -11.395 335)
+    (at -4.15054 -17.54434 335)
     (path /5F986F48)
     (attr smd)
     (fp_text reference D33 (at -0.0254 1.4 155) (layer B.SilkS)
@@ -2006,7 +2006,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F912C7E)
-    (at -23.661296 -17.980346 345)
+    (at -23.727336 -24.129686 345)
     (path /5F986F3A)
     (attr smd)
     (fp_text reference D32 (at -0.0254 1.4 165) (layer B.SilkS)
@@ -2045,7 +2045,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F6954)
-    (at -43.645 -21.9995 350)
+    (at -43.71104 -28.14884 350)
     (path /5F986F2C)
     (attr smd)
     (fp_text reference D31 (at -0.0254 1.4 170) (layer B.SilkS)
@@ -2084,7 +2084,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B735)
-    (at 132.770487 -30.472889 5)
+    (at 133.745847 -36.576509 5)
     (path /5F97DB77)
     (attr smd)
     (fp_text reference D30 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2123,7 +2123,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B6FC)
-    (at 113.77 -41.1135 5)
+    (at 114.74536 -47.21712 5)
     (path /5F97DB4D)
     (attr smd)
     (fp_text reference D29 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2162,7 +2162,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B6C3)
-    (at 95.484327 -43.975982 5)
+    (at 96.459687 -50.079602 5)
     (path /5F97DB3F)
     (attr smd)
     (fp_text reference D28 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2201,7 +2201,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B68A)
-    (at 77.953673 -37.679518 5)
+    (at 78.929033 -43.783138 5)
     (path /5F97DB31)
     (attr smd)
     (fp_text reference D27 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2240,7 +2240,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B651)
-    (at 60.176 -34.150907 5)
+    (at 61.15136 -40.254527 5)
     (path /5F97DB23)
     (attr smd)
     (fp_text reference D26 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2279,7 +2279,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F68DC)
-    (at -13.988173 -34.504018 355)
+    (at -14.054213 -40.653358 355)
     (path /5F9104B3)
     (attr smd)
     (fp_text reference D25 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2318,7 +2318,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F68C8)
-    (at -31.7705 -37.938 355)
+    (at -31.83654 -44.08734 355)
     (path /5F90B7A1)
     (attr smd)
     (fp_text reference D24 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2357,7 +2357,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F68B4)
-    (at -49.230673 -44.346518 355)
+    (at -49.296713 -50.495858 355)
     (path /5F90B793)
     (attr smd)
     (fp_text reference D23 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2396,7 +2396,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F68A0)
-    (at -67.5845 -41.494 355)
+    (at -67.65054 -47.64334 355)
     (path /5F90B785)
     (attr smd)
     (fp_text reference D22 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2435,7 +2435,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F908CBC)
-    (at -86.571 -30.826 355)
+    (at -86.63704 -36.97534 355)
     (path /5F90B777)
     (attr smd)
     (fp_text reference D21 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2474,7 +2474,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B618)
-    (at 131.345513 -47.436111 5)
+    (at 132.320873 -53.539731 5)
     (path /5F97DB69)
     (attr smd)
     (fp_text reference D20 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2513,7 +2513,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B5DF)
-    (at 112.359013 -58.040611 5)
+    (at 113.334373 -64.144231 5)
     (path /5F97DB15)
     (attr smd)
     (fp_text reference D19 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2552,7 +2552,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B5A6)
-    (at 93.958 -60.9255 5)
+    (at 94.93336 -67.02912 5)
     (path /5F97DB07)
     (attr smd)
     (fp_text reference D18 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2591,7 +2591,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B56D)
-    (at 76.418013 -54.548111 5)
+    (at 77.393373 -60.651731 5)
     (path /5F97DADD)
     (attr smd)
     (fp_text reference D17 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2630,7 +2630,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B534)
-    (at 58.701513 -51.055611 5)
+    (at 59.676873 -57.159231 5)
     (path /5F97DACF)
     (attr smd)
     (fp_text reference D16 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2669,7 +2669,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F6814)
-    (at -12.468827 -51.404982 355)
+    (at -12.534867 -57.554322 355)
     (path /5F9104A5)
     (attr smd)
     (fp_text reference D15 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2708,7 +2708,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F6800)
-    (at -30.296013 -54.865111 355)
+    (at -30.362053 -61.014451 355)
     (path /5F901B79)
     (attr smd)
     (fp_text reference D14 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2747,7 +2747,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F67EC)
-    (at -47.760841 -61.283593 355)
+    (at -47.826881 -67.432933 355)
     (path /5F901B6B)
     (attr smd)
     (fp_text reference D13 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2786,7 +2786,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F67D8)
-    (at -66.137987 -58.412389 355)
+    (at -66.204027 -64.561729 355)
     (path /5F8F50AF)
     (attr smd)
     (fp_text reference D12 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2825,7 +2825,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F67C4)
-    (at -85.098841 -47.758093 355)
+    (at -85.164881 -53.907433 355)
     (path /5F8F412B)
     (attr smd)
     (fp_text reference D11 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -2864,7 +2864,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B4FB)
-    (at 129.8355 -64.3545 5)
+    (at 130.81086 -70.45812 5)
     (path /5F97DB5B)
     (attr smd)
     (fp_text reference D10 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2903,7 +2903,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B4C2)
-    (at 110.7855 -75.0225 5)
+    (at 111.76086 -81.12612 5)
     (path /5F97DAF9)
     (attr smd)
     (fp_text reference D9 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2942,7 +2942,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B489)
-    (at 92.495173 -77.875018 5)
+    (at 93.470533 -83.978638 5)
     (path /5F97DAEB)
     (attr smd)
     (fp_text reference D8 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -2981,7 +2981,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B450)
-    (at 78.7815 -71.784 5)
+    (at 79.75686 -77.88762 5)
     (path /5F97DAC1)
     (attr smd)
     (fp_text reference D7 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -3020,7 +3020,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F90B417)
-    (at 57.257327 -68.042482 5)
+    (at 58.232687 -74.146102 5)
     (path /5F97DAB3)
     (attr smd)
     (fp_text reference D6 (at -0.0254 1.4 5) (layer B.SilkS)
@@ -3059,7 +3059,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F674C)
-    (at -11.008327 -68.359482 355)
+    (at -11.074367 -74.508822 355)
     (path /5F910497)
     (attr smd)
     (fp_text reference D5 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -3098,7 +3098,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F6738)
-    (at -28.783673 -71.778518 355)
+    (at -28.849713 -77.927858 355)
     (path /5F901B5D)
     (attr smd)
     (fp_text reference D4 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -3137,7 +3137,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F6724)
-    (at -46.300341 -78.174593 355)
+    (at -46.366381 -84.323933 355)
     (path /5F901B4F)
     (attr smd)
     (fp_text reference D3 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -3176,7 +3176,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F8F6710)
-    (at -64.588341 -75.317093 355)
+    (at -64.654381 -81.466433 355)
     (path /5F8F289B)
     (attr smd)
     (fp_text reference D2 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -3215,7 +3215,7 @@
   )
 
   (module Keebio-Parts:Diode-Hybrid-Back (layer F.Cu) (tedit 5B1AAB68) (tstamp 5F902187)
-    (at -83.588827 -64.676482 355)
+    (at -83.654867 -70.825822 355)
     (path /5F8EFEA4)
     (attr smd)
     (fp_text reference D1 (at -0.0254 1.4 175) (layer B.SilkS)
@@ -3253,8 +3253,8 @@
     )
   )
 
-  (module Keebio-Parts:ArduinoProMicro (layer F.Cu) (tedit 5B307E4C) (tstamp 5F901FD8)
-    (at 105.41 -134.62 270)
+  (module Keebio-Parts:ArduinoProMicro (layer F.Cu) (tedit 5B307E4C) (tstamp 5F913EDA)
+    (at 25.4 -60.95746 270)
     (path /5F8E5FF7)
     (fp_text reference U1 (at 0 1.625 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -3491,15 +3491,15 @@
     )
   )
 
-  (module Button_Switch_THT:SW_PUSH_6mm (layer F.Cu) (tedit 5A02FE31) (tstamp 5F9097EF)
-    (at 62.925 -169.639 90)
+  (module Button_Switch_THT:SW_PUSH_6mm (layer F.Cu) (tedit 5A02FE31) (tstamp 5F9167DC)
+    (at 11.557 -66.294 180)
     (descr https://www.omron.com/ecb/products/pdf/en-b3f.pdf)
     (tags "tact sw push 6mm")
     (path /5F8EDB37)
-    (fp_text reference SW2 (at 3.25 -2 90) (layer F.SilkS)
+    (fp_text reference SW2 (at 3.25 -2) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SW_Push (at 3.75 6.7 90) (layer F.Fab)
+    (fp_text value SW_Push (at 3.75 6.7) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_circle (center 3.25 2.25) (end 1.25 2.5) (layer F.Fab) (width 0.1))
@@ -3524,16 +3524,16 @@
     (fp_line (start 6.25 5.25) (end 0.25 5.25) (layer F.Fab) (width 0.1))
     (fp_line (start 6.25 -0.75) (end 6.25 5.25) (layer F.Fab) (width 0.1))
     (fp_line (start 3.25 -0.75) (end 6.25 -0.75) (layer F.Fab) (width 0.1))
-    (fp_text user %R (at 3.25 2.25 90) (layer F.Fab)
+    (fp_text user %R (at 3.25 2.25) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (pad 1 thru_hole circle (at 6.5 0 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 6.5 0 270) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 45 RST))
-    (pad 2 thru_hole circle (at 6.5 4.5 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
+    (pad 2 thru_hole circle (at 6.5 4.5 270) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 1 GND))
-    (pad 1 thru_hole circle (at 0 0 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 0 0 270) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 45 RST))
-    (pad 2 thru_hole circle (at 0 4.5 180) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
+    (pad 2 thru_hole circle (at 0 4.5 270) (size 2 2) (drill 1.1) (layers *.Cu *.Mask)
       (net 1 GND))
     (model ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl
       (at (xyz 0 0 0))
@@ -3543,7 +3543,7 @@
   )
 
   (module custom-parts:OS102011MA1QN1 (layer F.Cu) (tedit 5F8ECF53) (tstamp 5F8F69C1)
-    (at 70.219 -180.18 180)
+    (at 38.1 -72.39)
     (path /5F8F92AB)
     (fp_text reference SW1 (at 0 -2.54) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3551,18 +3551,18 @@
     (fp_text value SW_SPDT (at 0 -5.08) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (pad 0 thru_hole circle (at 8.2 0 180) (size 2.25 2.25) (drill 1.6) (layers *.Cu *.Mask))
-    (pad 3 thru_hole circle (at 6.1 0 180) (size 1.25 1.25) (drill 0.8) (layers *.Cu *.Mask)
+    (pad 0 thru_hole circle (at 8.2 0) (size 2.25 2.25) (drill 1.6) (layers *.Cu *.Mask))
+    (pad 3 thru_hole circle (at 6.1 0) (size 1.25 1.25) (drill 0.8) (layers *.Cu *.Mask)
       (net 43 "Net-(SW1-Pad3)"))
-    (pad 2 thru_hole circle (at 4.1 0 180) (size 1.25 1.25) (drill 0.8) (layers *.Cu *.Mask)
+    (pad 2 thru_hole circle (at 4.1 0) (size 1.25 1.25) (drill 0.8) (layers *.Cu *.Mask)
       (net 44 "Net-(SW1-Pad2)"))
-    (pad 1 thru_hole circle (at 2.1 0 180) (size 1.25 1.25) (drill 0.8) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 2.1 0) (size 1.25 1.25) (drill 0.8) (layers *.Cu *.Mask)
       (net 2 "Net-(BT1-Pad1)"))
-    (pad "" thru_hole circle (at 0 0 180) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask))
+    (pad "" thru_hole circle (at 0 0) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask))
   )
 
   (module Connector_Wire:battery (layer F.Cu) (tedit 5EB70B44) (tstamp 5F8F66E8)
-    (at 192.12 118.49)
+    (at 33.3 -38.1)
     (descr "Soldered wire connection, for 2 times 0.5 mm² wires, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.5 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
     (tags "connector wire 0.5sqmm")
     (path /5F8F4EF0)
