@@ -50,12 +50,12 @@ $EndComp
 $Comp
 L power:+BATT #PWR04
 U 1 1 5F8EBC1A
-P 9550 1250
-F 0 "#PWR04" H 9550 1100 50  0001 C CNN
-F 1 "+BATT" V 9565 1378 50  0000 L CNN
-F 2 "" H 9550 1250 50  0001 C CNN
-F 3 "" H 9550 1250 50  0001 C CNN
-	1    9550 1250
+P 9500 1150
+F 0 "#PWR04" H 9500 1000 50  0001 C CNN
+F 1 "+BATT" V 9515 1278 50  0000 L CNN
+F 2 "" H 9500 1150 50  0001 C CNN
+F 3 "" H 9500 1150 50  0001 C CNN
+	1    9500 1150
 	0    1    1    0   
 $EndComp
 $Comp
@@ -136,7 +136,7 @@ U 1 1 5F8EDC7E
 P 1600 4000
 F 0 "SW3" H 1600 4285 50  0000 C CNN
 F 1 "SW_Push" H 1600 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 1600 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 1600 4200 50  0001 C CNN
 F 3 "~" H 1600 4200 50  0001 C CNN
 	1    1600 4000
 	1    0    0    -1  
@@ -162,7 +162,7 @@ U 1 1 5F8F2895
 P 2250 4000
 F 0 "SW4" H 2250 4285 50  0000 C CNN
 F 1 "SW_Push" H 2250 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 2250 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 2250 4200 50  0001 C CNN
 F 3 "~" H 2250 4200 50  0001 C CNN
 	1    2250 4000
 	1    0    0    -1  
@@ -188,7 +188,7 @@ U 1 1 5F8F4125
 P 1600 4600
 F 0 "SW13" H 1600 4885 50  0000 C CNN
 F 1 "SW_Push" H 1600 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 1600 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 1600 4800 50  0001 C CNN
 F 3 "~" H 1600 4800 50  0001 C CNN
 	1    1600 4600
 	1    0    0    -1  
@@ -214,7 +214,7 @@ U 1 1 5F8F50A9
 P 2250 4600
 F 0 "SW14" H 2250 4885 50  0000 C CNN
 F 1 "SW_Push" H 2250 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 2250 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 2250 4800 50  0001 C CNN
 F 3 "~" H 2250 4800 50  0001 C CNN
 	1    2250 4600
 	1    0    0    -1  
@@ -240,7 +240,7 @@ U 1 1 5F901B49
 P 2900 4000
 F 0 "SW5" H 2900 4285 50  0000 C CNN
 F 1 "SW_Push" H 2900 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 2900 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 2900 4200 50  0001 C CNN
 F 3 "~" H 2900 4200 50  0001 C CNN
 	1    2900 4000
 	1    0    0    -1  
@@ -266,7 +266,7 @@ U 1 1 5F901B57
 P 3550 4000
 F 0 "SW6" H 3550 4285 50  0000 C CNN
 F 1 "SW_Push" H 3550 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 3550 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 3550 4200 50  0001 C CNN
 F 3 "~" H 3550 4200 50  0001 C CNN
 	1    3550 4000
 	1    0    0    -1  
@@ -292,7 +292,7 @@ U 1 1 5F901B65
 P 2900 4600
 F 0 "SW15" H 2900 4885 50  0000 C CNN
 F 1 "SW_Push" H 2900 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 2900 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 2900 4800 50  0001 C CNN
 F 3 "~" H 2900 4800 50  0001 C CNN
 	1    2900 4600
 	1    0    0    -1  
@@ -318,7 +318,7 @@ U 1 1 5F901B73
 P 3550 4600
 F 0 "SW16" H 3550 4885 50  0000 C CNN
 F 1 "SW_Push" H 3550 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 3550 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 3550 4800 50  0001 C CNN
 F 3 "~" H 3550 4800 50  0001 C CNN
 	1    3550 4600
 	1    0    0    -1  
@@ -344,7 +344,7 @@ U 1 1 5F90B771
 P 1600 5200
 F 0 "SW23" H 1600 5485 50  0000 C CNN
 F 1 "SW_Push" H 1600 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 1600 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 1600 5400 50  0001 C CNN
 F 3 "~" H 1600 5400 50  0001 C CNN
 	1    1600 5200
 	1    0    0    -1  
@@ -370,7 +370,7 @@ U 1 1 5F90B77F
 P 2250 5200
 F 0 "SW24" H 2250 5485 50  0000 C CNN
 F 1 "SW_Push" H 2250 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 2250 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 2250 5400 50  0001 C CNN
 F 3 "~" H 2250 5400 50  0001 C CNN
 	1    2250 5200
 	1    0    0    -1  
@@ -396,7 +396,7 @@ U 1 1 5F90B78D
 P 2900 5200
 F 0 "SW25" H 2900 5485 50  0000 C CNN
 F 1 "SW_Push" H 2900 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 2900 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 2900 5400 50  0001 C CNN
 F 3 "~" H 2900 5400 50  0001 C CNN
 	1    2900 5200
 	1    0    0    -1  
@@ -422,7 +422,7 @@ U 1 1 5F90B79B
 P 3550 5200
 F 0 "SW26" H 3550 5485 50  0000 C CNN
 F 1 "SW_Push" H 3550 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 3550 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 3550 5400 50  0001 C CNN
 F 3 "~" H 3550 5400 50  0001 C CNN
 	1    3550 5200
 	1    0    0    -1  
@@ -448,7 +448,7 @@ U 1 1 5F910491
 P 4200 4000
 F 0 "SW7" H 4200 4285 50  0000 C CNN
 F 1 "SW_Push" H 4200 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 4200 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 4200 4200 50  0001 C CNN
 F 3 "~" H 4200 4200 50  0001 C CNN
 	1    4200 4000
 	1    0    0    -1  
@@ -474,7 +474,7 @@ U 1 1 5F91049F
 P 4200 4600
 F 0 "SW17" H 4200 4885 50  0000 C CNN
 F 1 "SW_Push" H 4200 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 4200 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 4200 4800 50  0001 C CNN
 F 3 "~" H 4200 4800 50  0001 C CNN
 	1    4200 4600
 	1    0    0    -1  
@@ -500,7 +500,7 @@ U 1 1 5F9104AD
 P 4200 5200
 F 0 "SW27" H 4200 5485 50  0000 C CNN
 F 1 "SW_Push" H 4200 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 4200 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 4200 5400 50  0001 C CNN
 F 3 "~" H 4200 5400 50  0001 C CNN
 	1    4200 5200
 	1    0    0    -1  
@@ -526,7 +526,7 @@ U 1 1 5F97DAAD
 P 5200 4000
 F 0 "SW8" H 5200 4285 50  0000 C CNN
 F 1 "SW_Push" H 5200 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 5200 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 5200 4200 50  0001 C CNN
 F 3 "~" H 5200 4200 50  0001 C CNN
 	1    5200 4000
 	1    0    0    -1  
@@ -552,7 +552,7 @@ U 1 1 5F97DABB
 P 5850 4000
 F 0 "SW9" H 5850 4285 50  0000 C CNN
 F 1 "SW_Push" H 5850 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 5850 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 5850 4200 50  0001 C CNN
 F 3 "~" H 5850 4200 50  0001 C CNN
 	1    5850 4000
 	1    0    0    -1  
@@ -578,7 +578,7 @@ U 1 1 5F97DAC9
 P 5200 4600
 F 0 "SW18" H 5200 4885 50  0000 C CNN
 F 1 "SW_Push" H 5200 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 5200 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 5200 4800 50  0001 C CNN
 F 3 "~" H 5200 4800 50  0001 C CNN
 	1    5200 4600
 	1    0    0    -1  
@@ -604,7 +604,7 @@ U 1 1 5F97DAD7
 P 5850 4600
 F 0 "SW19" H 5850 4885 50  0000 C CNN
 F 1 "SW_Push" H 5850 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 5850 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 5850 4800 50  0001 C CNN
 F 3 "~" H 5850 4800 50  0001 C CNN
 	1    5850 4600
 	1    0    0    -1  
@@ -630,7 +630,7 @@ U 1 1 5F97DAE5
 P 6500 4000
 F 0 "SW10" H 6500 4285 50  0000 C CNN
 F 1 "SW_Push" H 6500 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 6500 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 6500 4200 50  0001 C CNN
 F 3 "~" H 6500 4200 50  0001 C CNN
 	1    6500 4000
 	1    0    0    -1  
@@ -656,7 +656,7 @@ U 1 1 5F97DAF3
 P 7150 4000
 F 0 "SW11" H 7150 4285 50  0000 C CNN
 F 1 "SW_Push" H 7150 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 7150 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 7150 4200 50  0001 C CNN
 F 3 "~" H 7150 4200 50  0001 C CNN
 	1    7150 4000
 	1    0    0    -1  
@@ -682,7 +682,7 @@ U 1 1 5F97DB01
 P 6500 4600
 F 0 "SW20" H 6500 4885 50  0000 C CNN
 F 1 "SW_Push" H 6500 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 6500 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 6500 4800 50  0001 C CNN
 F 3 "~" H 6500 4800 50  0001 C CNN
 	1    6500 4600
 	1    0    0    -1  
@@ -708,7 +708,7 @@ U 1 1 5F97DB0F
 P 7150 4600
 F 0 "SW21" H 7150 4885 50  0000 C CNN
 F 1 "SW_Push" H 7150 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 7150 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 7150 4800 50  0001 C CNN
 F 3 "~" H 7150 4800 50  0001 C CNN
 	1    7150 4600
 	1    0    0    -1  
@@ -734,7 +734,7 @@ U 1 1 5F97DB1D
 P 5200 5200
 F 0 "SW28" H 5200 5485 50  0000 C CNN
 F 1 "SW_Push" H 5200 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 5200 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 5200 5400 50  0001 C CNN
 F 3 "~" H 5200 5400 50  0001 C CNN
 	1    5200 5200
 	1    0    0    -1  
@@ -760,7 +760,7 @@ U 1 1 5F97DB2B
 P 5850 5200
 F 0 "SW29" H 5850 5485 50  0000 C CNN
 F 1 "SW_Push" H 5850 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 5850 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 5850 5400 50  0001 C CNN
 F 3 "~" H 5850 5400 50  0001 C CNN
 	1    5850 5200
 	1    0    0    -1  
@@ -786,7 +786,7 @@ U 1 1 5F97DB39
 P 6500 5200
 F 0 "SW30" H 6500 5485 50  0000 C CNN
 F 1 "SW_Push" H 6500 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 6500 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 6500 5400 50  0001 C CNN
 F 3 "~" H 6500 5400 50  0001 C CNN
 	1    6500 5200
 	1    0    0    -1  
@@ -812,7 +812,7 @@ U 1 1 5F97DB47
 P 7150 5200
 F 0 "SW31" H 7150 5485 50  0000 C CNN
 F 1 "SW_Push" H 7150 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 7150 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 7150 5400 50  0001 C CNN
 F 3 "~" H 7150 5400 50  0001 C CNN
 	1    7150 5200
 	1    0    0    -1  
@@ -838,7 +838,7 @@ U 1 1 5F97DB55
 P 7800 4000
 F 0 "SW12" H 7800 4285 50  0000 C CNN
 F 1 "SW_Push" H 7800 4194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 7800 4200 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 7800 4200 50  0001 C CNN
 F 3 "~" H 7800 4200 50  0001 C CNN
 	1    7800 4000
 	1    0    0    -1  
@@ -864,7 +864,7 @@ U 1 1 5F97DB63
 P 7800 4600
 F 0 "SW22" H 7800 4885 50  0000 C CNN
 F 1 "SW_Push" H 7800 4794 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 7800 4800 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 7800 4800 50  0001 C CNN
 F 3 "~" H 7800 4800 50  0001 C CNN
 	1    7800 4600
 	1    0    0    -1  
@@ -890,7 +890,7 @@ U 1 1 5F97DB71
 P 7800 5200
 F 0 "SW32" H 7800 5485 50  0000 C CNN
 F 1 "SW_Push" H 7800 5394 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 7800 5400 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 7800 5400 50  0001 C CNN
 F 3 "~" H 7800 5400 50  0001 C CNN
 	1    7800 5200
 	1    0    0    -1  
@@ -916,7 +916,7 @@ U 1 1 5F986F26
 P 2900 5950
 F 0 "SW33" H 2900 6235 50  0000 C CNN
 F 1 "SW_Push" H 2900 6144 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 2900 6150 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 2900 6150 50  0001 C CNN
 F 3 "~" H 2900 6150 50  0001 C CNN
 	1    2900 5950
 	1    0    0    -1  
@@ -942,7 +942,7 @@ U 1 1 5F986F34
 P 3550 5950
 F 0 "SW34" H 3550 6235 50  0000 C CNN
 F 1 "SW_Push" H 3550 6144 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 3550 6150 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 3550 6150 50  0001 C CNN
 F 3 "~" H 3550 6150 50  0001 C CNN
 	1    3550 5950
 	1    0    0    -1  
@@ -968,7 +968,7 @@ U 1 1 5F986F42
 P 4200 5950
 F 0 "SW35" H 4200 6235 50  0000 C CNN
 F 1 "SW_Push" H 4200 6144 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 4200 6150 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 4200 6150 50  0001 C CNN
 F 3 "~" H 4200 6150 50  0001 C CNN
 	1    4200 5950
 	1    0    0    -1  
@@ -994,7 +994,7 @@ U 1 1 5F98D868
 P 5200 5950
 F 0 "SW36" H 5200 6235 50  0000 C CNN
 F 1 "SW_Push" H 5200 6144 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 5200 6150 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 5200 6150 50  0001 C CNN
 F 3 "~" H 5200 6150 50  0001 C CNN
 	1    5200 5950
 	1    0    0    -1  
@@ -1020,7 +1020,7 @@ U 1 1 5F98D876
 P 5850 5950
 F 0 "SW37" H 5850 6235 50  0000 C CNN
 F 1 "SW_Push" H 5850 6144 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 5850 6150 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 5850 6150 50  0001 C CNN
 F 3 "~" H 5850 6150 50  0001 C CNN
 	1    5850 5950
 	1    0    0    -1  
@@ -1046,7 +1046,7 @@ U 1 1 5F98D884
 P 6500 5950
 F 0 "SW38" H 6500 6235 50  0000 C CNN
 F 1 "SW_Push" H 6500 6144 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u-NoLED" H 6500 6150 50  0001 C CNN
+F 2 "custom-parts:customchocfootprint" H 6500 6150 50  0001 C CNN
 F 3 "~" H 6500 6150 50  0001 C CNN
 	1    6500 5950
 	1    0    0    -1  
@@ -1286,7 +1286,7 @@ Connection ~ 5400 5200
 Wire Wire Line
 	5400 5200 5400 5950
 Wire Wire Line
-	6100 3450 6100 5950
+	6100 3450 6100 4000
 Wire Wire Line
 	6100 5950 6050 5950
 Text GLabel 4800 1100 0    50   Input ~ 0
@@ -1317,4 +1317,19 @@ Text GLabel 4800 2000 0    50   Input ~ 0
 ROW2
 Text GLabel 4800 2100 0    50   Input ~ 0
 ROW3
+Wire Wire Line
+	6050 4000 6100 4000
+Connection ~ 6100 4000
+Wire Wire Line
+	6100 4000 6100 4600
+Wire Wire Line
+	6050 4600 6100 4600
+Connection ~ 6100 4600
+Wire Wire Line
+	6100 4600 6100 5200
+Wire Wire Line
+	6050 5200 6100 5200
+Connection ~ 6100 5200
+Wire Wire Line
+	6100 5200 6100 5950
 $EndSCHEMATC
