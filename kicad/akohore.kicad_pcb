@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 14)
+    (drawings 11)
     (tracks 493)
     (zones 0)
     (modules 76)
@@ -22,9 +22,9 @@
     (38 B.Mask user)
     (39 F.Mask user)
     (40 Dwgs.User user)
-    (41 Cmts.User user)
+    (41 Cmts.User user hide)
     (42 Eco1.User user hide)
-    (43 Eco2.User user hide)
+    (43 Eco2.User user)
     (44 Edge.Cuts user)
     (45 Margin user)
     (46 B.CrtYd user)
@@ -3603,7 +3603,7 @@
     )
   )
 
-  (gr_arc (start -0.29964 -227.499999) (end -0.29964 5) (angle -18.13780034) (layer Edge.Cuts) (width 0.2))
+  (gr_arc (start -0.29964 -227.499999) (end 0.3 5) (angle -17.99002887) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start 125 155) (end 110.367267 -14.369073) (angle -13.19996182) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start 109.076143 -29.313403) (end 110.367267 -14.369073) (angle -88.63849586) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 120.87902 -80.935674) (end 124.046932 -30.249078) (layer Edge.Cuts) (width 0.2))
@@ -3613,10 +3613,7 @@
   (gr_line (start -124.046932 -30.249078) (end -120.87902 -80.935674) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start -109.076143 -29.313403) (end -124.046932 -30.249078) (angle -88.63849586) (layer Edge.Cuts) (width 0.2))
   (gr_arc (start -125 155) (end -72.078412 -6.552795) (angle -13.19996182) (layer Edge.Cuts) (width 0.2))
-  (gr_arc (start 0.29964 -227.5) (end -72.078412 -6.552795) (angle -18.13780034) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start -0.29964 5) (end 0.29964 5) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start -0.29964 5) (end 0.29964 5) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start -0.29964 5) (end 0.29964 5) (layer Edge.Cuts) (width 0.2))
+  (gr_arc (start 0.29964 -227.5) (end -72.078412 -6.552795) (angle -18.13788872) (layer Edge.Cuts) (width 0.2))
 
   (segment (start -116.838977 -91.311852) (end -116.427521 -91.723308) (width 0.25) (layer F.Cu) (net 0))
   (segment (start -116.388481 -91.723308) (end -116.324362 -91.787427) (width 0.25) (layer F.Cu) (net 0))
