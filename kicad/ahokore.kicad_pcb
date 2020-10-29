@@ -2,8 +2,8 @@
 
   (general
     (thickness 1.6)
-    (drawings 15)
-    (tracks 488)
+    (drawings 16)
+    (tracks 489)
     (zones 0)
     (modules 87)
     (nets 63)
@@ -6420,6 +6420,9 @@
     )
   )
 
+  (gr_text "Ahokore V1" (at 0.325 -57.05) (layer B.SilkS) (tstamp 5F9B6341)
+    (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
+  )
   (gr_text "Licensed under CERN-OHL-P v2." (at 0.325 -37.05) (layer B.SilkS) (tstamp 5F9E2F5B)
     (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
@@ -6549,6 +6552,7 @@
   (segment (start 84.288521 -83.863789) (end 86.575014 -81.945193) (width 0.25) (layer B.Cu) (net 12) (tstamp 5F9797B5))
   (segment (start 84.244943 -85.181886) (end 84.288521 -84.683789) (width 0.25) (layer B.Cu) (net 12) (tstamp 5F9797AC))
   (segment (start 87.17953 -75.035547) (end 89.454494 -73.126626) (width 0.25) (layer B.Cu) (net 12) (tstamp 5F9797A9))
+  (segment (start 84.288521 -84.683789) (end 84.288521 -83.863789) (width 0.25) (layer B.Cu) (net 12))
   (segment (start 105.573305 -71.320582) (end 106.159605 -64.619132) (width 0.25) (layer B.Cu) (net 13) (tstamp 5F9797B2))
   (segment (start 103.33852 -73.195789) (end 105.573305 -71.320582) (width 0.25) (layer B.Cu) (net 13) (tstamp 5F9797AF))
   (segment (start 103.294943 -73.693886) (end 103.33852 -73.195789) (width 0.25) (layer B.Cu) (net 13) (tstamp 5F979779))
