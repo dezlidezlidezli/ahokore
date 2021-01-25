@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:akohore-cache
+LIBS:ahokore-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -14,37 +14,1323 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Wire Wire Line
+	6100 5200 6100 5950
+Connection ~ 6100 5200
+Wire Wire Line
+	6050 5200 6100 5200
+Wire Wire Line
+	6100 4600 6100 5200
+Connection ~ 6100 4600
+Wire Wire Line
+	6050 4600 6100 4600
+Wire Wire Line
+	6100 4000 6100 4600
+Connection ~ 6100 4000
+Wire Wire Line
+	6050 4000 6100 4000
+Wire Wire Line
+	6100 5950 6050 5950
+Wire Wire Line
+	6100 3450 6100 4000
+Wire Wire Line
+	5400 5200 5400 5950
+Connection ~ 5400 5200
+Wire Wire Line
+	5400 4600 5400 5200
+Connection ~ 5400 4600
+Wire Wire Line
+	5400 4000 5400 4600
+Connection ~ 5400 4000
+Wire Wire Line
+	5400 3450 5400 4000
+Wire Wire Line
+	8000 4600 8000 5200
+Connection ~ 8000 4600
+Wire Wire Line
+	8000 4000 8000 4600
+Connection ~ 8000 4000
+Wire Wire Line
+	8000 3450 8000 4000
+Wire Wire Line
+	7350 4600 7350 5200
+Connection ~ 7350 4600
+Wire Wire Line
+	7350 4000 7350 4600
+Connection ~ 7350 4000
+Wire Wire Line
+	7350 3450 7350 4000
+Wire Wire Line
+	6700 5200 6700 5950
+Connection ~ 6700 5200
+Wire Wire Line
+	6700 4600 6700 5200
+Connection ~ 6700 4600
+Wire Wire Line
+	6700 4000 6700 4600
+Connection ~ 6700 4000
+Wire Wire Line
+	6700 3450 6700 4000
+Wire Wire Line
+	5600 6200 6250 6200
+Connection ~ 5600 6200
+Wire Wire Line
+	4950 6200 5600 6200
+Connection ~ 4950 6200
+Wire Wire Line
+	3950 6200 4950 6200
+Connection ~ 3950 6200
+Wire Wire Line
+	3300 6200 3950 6200
+Connection ~ 3300 6200
+Wire Wire Line
+	2650 6200 3300 6200
+Connection ~ 2650 6200
+Wire Wire Line
+	1050 6200 2650 6200
+Wire Wire Line
+	6900 5450 7550 5450
+Connection ~ 6900 5450
+Wire Wire Line
+	6250 5450 6900 5450
+Connection ~ 6250 5450
+Wire Wire Line
+	5600 5450 6250 5450
+Connection ~ 5600 5450
+Wire Wire Line
+	4950 5450 5600 5450
+Connection ~ 4950 5450
+Wire Wire Line
+	3950 5450 4950 5450
+Connection ~ 3950 5450
+Wire Wire Line
+	3300 5450 3950 5450
+Connection ~ 3300 5450
+Wire Wire Line
+	2650 5450 3300 5450
+Connection ~ 2650 5450
+Wire Wire Line
+	2000 5450 2650 5450
+Connection ~ 2000 5450
+Wire Wire Line
+	1350 5450 2000 5450
+Connection ~ 1350 5450
+Wire Wire Line
+	1050 5450 1350 5450
+Wire Wire Line
+	6900 4850 7550 4850
+Connection ~ 6900 4850
+Wire Wire Line
+	6250 4850 6900 4850
+Connection ~ 6250 4850
+Wire Wire Line
+	5600 4850 6250 4850
+Connection ~ 5600 4850
+Wire Wire Line
+	4950 4850 5600 4850
+Connection ~ 4950 4850
+Wire Wire Line
+	3950 4850 4950 4850
+Connection ~ 3950 4850
+Wire Wire Line
+	3300 4850 3950 4850
+Connection ~ 3300 4850
+Wire Wire Line
+	2650 4850 3300 4850
+Connection ~ 2650 4850
+Wire Wire Line
+	2000 4850 2650 4850
+Connection ~ 2000 4850
+Wire Wire Line
+	1350 4850 2000 4850
+Connection ~ 1350 4850
+Wire Wire Line
+	1050 4850 1350 4850
+Wire Wire Line
+	6900 4250 7550 4250
+Connection ~ 6900 4250
+Wire Wire Line
+	6250 4250 6900 4250
+Connection ~ 6250 4250
+Wire Wire Line
+	5600 4250 6250 4250
+Connection ~ 5600 4250
+Wire Wire Line
+	4950 4250 5600 4250
+Connection ~ 4950 4250
+Wire Wire Line
+	3950 4250 4950 4250
+Connection ~ 3950 4250
+Wire Wire Line
+	3300 4250 3950 4250
+Connection ~ 3300 4250
+Wire Wire Line
+	2650 4250 3300 4250
+Connection ~ 2650 4250
+Wire Wire Line
+	2000 4250 2650 4250
+Connection ~ 2000 4250
+Wire Wire Line
+	1350 4250 2000 4250
+Connection ~ 1350 4250
+Wire Wire Line
+	1050 4250 1350 4250
+Wire Wire Line
+	2450 4600 2450 5200
+Connection ~ 2450 4600
+Wire Wire Line
+	2450 4000 2450 4600
+Connection ~ 2450 4000
+Wire Wire Line
+	2450 3450 2450 4000
+Wire Wire Line
+	3100 5200 3100 5950
+Connection ~ 3100 5200
+Wire Wire Line
+	3100 4600 3100 5200
+Connection ~ 3100 4600
+Wire Wire Line
+	3100 4000 3100 4600
+Connection ~ 3100 4000
+Wire Wire Line
+	3100 3450 3100 4000
+Wire Wire Line
+	3750 5200 3750 5950
+Connection ~ 3750 5200
+Wire Wire Line
+	3750 4600 3750 5200
+Connection ~ 3750 4600
+Wire Wire Line
+	3750 4000 3750 4600
+Connection ~ 3750 4000
+Wire Wire Line
+	3750 3450 3750 4000
+Wire Wire Line
+	1800 4600 1800 5200
+Connection ~ 1800 4600
+Wire Wire Line
+	1800 4000 1800 4600
+Connection ~ 1800 4000
+Wire Wire Line
+	1800 3450 1800 4000
+Text GLabel 1050 6200 0    50   Input ~ 0
+ROW3
+Text GLabel 1050 5450 0    50   Input ~ 0
+ROW2
+Text GLabel 1050 4850 0    50   Input ~ 0
+ROW1
+Text GLabel 1050 4250 0    50   Input ~ 0
+ROW0
+Wire Wire Line
+	4400 5200 4400 5950
+Connection ~ 4400 5200
+Wire Wire Line
+	4400 4600 4400 5200
+Connection ~ 4400 4600
+Wire Wire Line
+	4400 4000 4400 4600
+Connection ~ 4400 4000
+Wire Wire Line
+	4400 3450 4400 4000
+Text GLabel 8000 3450 1    50   Input ~ 0
+COL9
+Text GLabel 7350 3450 1    50   Input ~ 0
+COL8
+Text GLabel 6700 3450 1    50   Input ~ 0
+COL7
+Text GLabel 6100 3450 1    50   Input ~ 0
+COL6
+Text GLabel 5400 3450 1    50   Input ~ 0
+COL5
+Text GLabel 4400 3450 1    50   Input ~ 0
+COL4
+Text GLabel 3750 3450 1    50   Input ~ 0
+COL3
+Text GLabel 3100 3450 1    50   Input ~ 0
+COL2
+Text GLabel 2450 3450 1    50   Input ~ 0
+COL1
+Text GLabel 1800 3450 1    50   Input ~ 0
+COL0
+Wire Wire Line
+	6250 5950 6300 5950
+Wire Wire Line
+	6250 6000 6250 5950
 $Comp
-L keebio:ProMicro U1
-U 1 1 5F8E5FF7
-P 5500 1650
-F 0 "U1" H 5500 2487 60  0000 C CNN
-F 1 "ProMicro" H 5500 2381 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro" V 6550 -850 60  0001 C CNN
-F 3 "" V 6550 -850 60  0001 C CNN
-	1    5500 1650
-	1    0    0    -1  
+L Device:D_Small D36
+U 1 1 5F98D88A
+P 6250 6100
+F 0 "D36" V 6296 6030 50  0000 R CNN
+F 1 "D_Small" V 6205 6030 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6250 6100 50  0001 C CNN
+F 3 "~" V 6250 6100 50  0001 C CNN
+	1    6250 6100
+	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:Battery_Cell BT1
-U 1 1 5F8F4EF0
-P 8650 1250
-F 0 "BT1" V 8395 1300 50  0000 C CNN
-F 1 "Battery_Cell" V 8486 1300 50  0000 C CNN
-F 2 "Connector_Wire:battery" V 8650 1310 50  0001 C CNN
-F 3 "~" V 8650 1310 50  0001 C CNN
-	1    8650 1250
+L Switch:SW_Push SW38
+U 1 1 5F98D884
+P 6500 5950
+F 0 "SW38" H 6500 6235 50  0000 C CNN
+F 1 "SW_Push" H 6500 6144 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 6500 6150 50  0001 C CNN
+F 3 "~" H 6500 6150 50  0001 C CNN
+	1    6500 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 5950 5650 5950
+Wire Wire Line
+	5600 6000 5600 5950
+$Comp
+L Device:D_Small D35
+U 1 1 5F98D87C
+P 5600 6100
+F 0 "D35" V 5646 6030 50  0000 R CNN
+F 1 "D_Small" V 5555 6030 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5600 6100 50  0001 C CNN
+F 3 "~" V 5600 6100 50  0001 C CNN
+	1    5600 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW37
+U 1 1 5F98D876
+P 5850 5950
+F 0 "SW37" H 5850 6235 50  0000 C CNN
+F 1 "SW_Push" H 5850 6144 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 5850 6150 50  0001 C CNN
+F 3 "~" H 5850 6150 50  0001 C CNN
+	1    5850 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 5950 5000 5950
+Wire Wire Line
+	4950 6000 4950 5950
+$Comp
+L Device:D_Small D34
+U 1 1 5F98D86E
+P 4950 6100
+F 0 "D34" V 4996 6030 50  0000 R CNN
+F 1 "D_Small" V 4905 6030 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4950 6100 50  0001 C CNN
+F 3 "~" V 4950 6100 50  0001 C CNN
+	1    4950 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW36
+U 1 1 5F98D868
+P 5200 5950
+F 0 "SW36" H 5200 6235 50  0000 C CNN
+F 1 "SW_Push" H 5200 6144 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 5200 6150 50  0001 C CNN
+F 3 "~" H 5200 6150 50  0001 C CNN
+	1    5200 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 5950 4000 5950
+Wire Wire Line
+	3950 6000 3950 5950
+$Comp
+L Device:D_Small D33
+U 1 1 5F986F48
+P 3950 6100
+F 0 "D33" V 3996 6030 50  0000 R CNN
+F 1 "D_Small" V 3905 6030 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3950 6100 50  0001 C CNN
+F 3 "~" V 3950 6100 50  0001 C CNN
+	1    3950 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW35
+U 1 1 5F986F42
+P 4200 5950
+F 0 "SW35" H 4200 6235 50  0000 C CNN
+F 1 "SW_Push" H 4200 6144 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 4200 6150 50  0001 C CNN
+F 3 "~" H 4200 6150 50  0001 C CNN
+	1    4200 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 5950 3350 5950
+Wire Wire Line
+	3300 6000 3300 5950
+$Comp
+L Device:D_Small D32
+U 1 1 5F986F3A
+P 3300 6100
+F 0 "D32" V 3346 6030 50  0000 R CNN
+F 1 "D_Small" V 3255 6030 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3300 6100 50  0001 C CNN
+F 3 "~" V 3300 6100 50  0001 C CNN
+	1    3300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW34
+U 1 1 5F986F34
+P 3550 5950
+F 0 "SW34" H 3550 6235 50  0000 C CNN
+F 1 "SW_Push" H 3550 6144 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 3550 6150 50  0001 C CNN
+F 3 "~" H 3550 6150 50  0001 C CNN
+	1    3550 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 5950 2700 5950
+Wire Wire Line
+	2650 6000 2650 5950
+$Comp
+L Device:D_Small D31
+U 1 1 5F986F2C
+P 2650 6100
+F 0 "D31" V 2696 6030 50  0000 R CNN
+F 1 "D_Small" V 2605 6030 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2650 6100 50  0001 C CNN
+F 3 "~" V 2650 6100 50  0001 C CNN
+	1    2650 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW33
+U 1 1 5F986F26
+P 2900 5950
+F 0 "SW33" H 2900 6235 50  0000 C CNN
+F 1 "SW_Push" H 2900 6144 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 2900 6150 50  0001 C CNN
+F 3 "~" H 2900 6150 50  0001 C CNN
+	1    2900 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7550 5200 7600 5200
+Wire Wire Line
+	7550 5250 7550 5200
+$Comp
+L Device:D_Small D30
+U 1 1 5F97DB77
+P 7550 5350
+F 0 "D30" V 7596 5280 50  0000 R CNN
+F 1 "D_Small" V 7505 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7550 5350 50  0001 C CNN
+F 3 "~" V 7550 5350 50  0001 C CNN
+	1    7550 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW32
+U 1 1 5F97DB71
+P 7800 5200
+F 0 "SW32" H 7800 5485 50  0000 C CNN
+F 1 "SW_Push" H 7800 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 7800 5400 50  0001 C CNN
+F 3 "~" H 7800 5400 50  0001 C CNN
+	1    7800 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7550 4600 7600 4600
+Wire Wire Line
+	7550 4650 7550 4600
+$Comp
+L Device:D_Small D20
+U 1 1 5F97DB69
+P 7550 4750
+F 0 "D20" V 7596 4680 50  0000 R CNN
+F 1 "D_Small" V 7505 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7550 4750 50  0001 C CNN
+F 3 "~" V 7550 4750 50  0001 C CNN
+	1    7550 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW22
+U 1 1 5F97DB63
+P 7800 4600
+F 0 "SW22" H 7800 4885 50  0000 C CNN
+F 1 "SW_Push" H 7800 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 7800 4800 50  0001 C CNN
+F 3 "~" H 7800 4800 50  0001 C CNN
+	1    7800 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7550 4000 7600 4000
+Wire Wire Line
+	7550 4050 7550 4000
+$Comp
+L Device:D_Small D10
+U 1 1 5F97DB5B
+P 7550 4150
+F 0 "D10" V 7596 4080 50  0000 R CNN
+F 1 "D_Small" V 7505 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7550 4150 50  0001 C CNN
+F 3 "~" V 7550 4150 50  0001 C CNN
+	1    7550 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5F97DB55
+P 7800 4000
+F 0 "SW12" H 7800 4285 50  0000 C CNN
+F 1 "SW_Push" H 7800 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 7800 4200 50  0001 C CNN
+F 3 "~" H 7800 4200 50  0001 C CNN
+	1    7800 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 5200 6950 5200
+Wire Wire Line
+	6900 5250 6900 5200
+$Comp
+L Device:D_Small D29
+U 1 1 5F97DB4D
+P 6900 5350
+F 0 "D29" V 6946 5280 50  0000 R CNN
+F 1 "D_Small" V 6855 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 5350 50  0001 C CNN
+F 3 "~" V 6900 5350 50  0001 C CNN
+	1    6900 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW31
+U 1 1 5F97DB47
+P 7150 5200
+F 0 "SW31" H 7150 5485 50  0000 C CNN
+F 1 "SW_Push" H 7150 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 7150 5400 50  0001 C CNN
+F 3 "~" H 7150 5400 50  0001 C CNN
+	1    7150 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 5200 6300 5200
+Wire Wire Line
+	6250 5250 6250 5200
+$Comp
+L Device:D_Small D28
+U 1 1 5F97DB3F
+P 6250 5350
+F 0 "D28" V 6296 5280 50  0000 R CNN
+F 1 "D_Small" V 6205 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6250 5350 50  0001 C CNN
+F 3 "~" V 6250 5350 50  0001 C CNN
+	1    6250 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW30
+U 1 1 5F97DB39
+P 6500 5200
+F 0 "SW30" H 6500 5485 50  0000 C CNN
+F 1 "SW_Push" H 6500 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 6500 5400 50  0001 C CNN
+F 3 "~" H 6500 5400 50  0001 C CNN
+	1    6500 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 5200 5650 5200
+Wire Wire Line
+	5600 5250 5600 5200
+$Comp
+L Device:D_Small D27
+U 1 1 5F97DB31
+P 5600 5350
+F 0 "D27" V 5646 5280 50  0000 R CNN
+F 1 "D_Small" V 5555 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5600 5350 50  0001 C CNN
+F 3 "~" V 5600 5350 50  0001 C CNN
+	1    5600 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW29
+U 1 1 5F97DB2B
+P 5850 5200
+F 0 "SW29" H 5850 5485 50  0000 C CNN
+F 1 "SW_Push" H 5850 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 5850 5400 50  0001 C CNN
+F 3 "~" H 5850 5400 50  0001 C CNN
+	1    5850 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 5200 5000 5200
+Wire Wire Line
+	4950 5250 4950 5200
+$Comp
+L Device:D_Small D26
+U 1 1 5F97DB23
+P 4950 5350
+F 0 "D26" V 4996 5280 50  0000 R CNN
+F 1 "D_Small" V 4905 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4950 5350 50  0001 C CNN
+F 3 "~" V 4950 5350 50  0001 C CNN
+	1    4950 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW28
+U 1 1 5F97DB1D
+P 5200 5200
+F 0 "SW28" H 5200 5485 50  0000 C CNN
+F 1 "SW_Push" H 5200 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 5200 5400 50  0001 C CNN
+F 3 "~" H 5200 5400 50  0001 C CNN
+	1    5200 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 4600 6950 4600
+Wire Wire Line
+	6900 4650 6900 4600
+$Comp
+L Device:D_Small D19
+U 1 1 5F97DB15
+P 6900 4750
+F 0 "D19" V 6946 4680 50  0000 R CNN
+F 1 "D_Small" V 6855 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 4750 50  0001 C CNN
+F 3 "~" V 6900 4750 50  0001 C CNN
+	1    6900 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW21
+U 1 1 5F97DB0F
+P 7150 4600
+F 0 "SW21" H 7150 4885 50  0000 C CNN
+F 1 "SW_Push" H 7150 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 7150 4800 50  0001 C CNN
+F 3 "~" H 7150 4800 50  0001 C CNN
+	1    7150 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 4600 6300 4600
+Wire Wire Line
+	6250 4650 6250 4600
+$Comp
+L Device:D_Small D18
+U 1 1 5F97DB07
+P 6250 4750
+F 0 "D18" V 6296 4680 50  0000 R CNN
+F 1 "D_Small" V 6205 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6250 4750 50  0001 C CNN
+F 3 "~" V 6250 4750 50  0001 C CNN
+	1    6250 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW20
+U 1 1 5F97DB01
+P 6500 4600
+F 0 "SW20" H 6500 4885 50  0000 C CNN
+F 1 "SW_Push" H 6500 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 6500 4800 50  0001 C CNN
+F 3 "~" H 6500 4800 50  0001 C CNN
+	1    6500 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 4000 6950 4000
+Wire Wire Line
+	6900 4050 6900 4000
+$Comp
+L Device:D_Small D9
+U 1 1 5F97DAF9
+P 6900 4150
+F 0 "D9" V 6946 4080 50  0000 R CNN
+F 1 "D_Small" V 6855 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 4150 50  0001 C CNN
+F 3 "~" V 6900 4150 50  0001 C CNN
+	1    6900 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5F97DAF3
+P 7150 4000
+F 0 "SW11" H 7150 4285 50  0000 C CNN
+F 1 "SW_Push" H 7150 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 7150 4200 50  0001 C CNN
+F 3 "~" H 7150 4200 50  0001 C CNN
+	1    7150 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 4000 6300 4000
+Wire Wire Line
+	6250 4050 6250 4000
+$Comp
+L Device:D_Small D8
+U 1 1 5F97DAEB
+P 6250 4150
+F 0 "D8" V 6296 4080 50  0000 R CNN
+F 1 "D_Small" V 6205 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6250 4150 50  0001 C CNN
+F 3 "~" V 6250 4150 50  0001 C CNN
+	1    6250 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5F97DAE5
+P 6500 4000
+F 0 "SW10" H 6500 4285 50  0000 C CNN
+F 1 "SW_Push" H 6500 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 6500 4200 50  0001 C CNN
+F 3 "~" H 6500 4200 50  0001 C CNN
+	1    6500 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 4600 5650 4600
+Wire Wire Line
+	5600 4650 5600 4600
+$Comp
+L Device:D_Small D17
+U 1 1 5F97DADD
+P 5600 4750
+F 0 "D17" V 5646 4680 50  0000 R CNN
+F 1 "D_Small" V 5555 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5600 4750 50  0001 C CNN
+F 3 "~" V 5600 4750 50  0001 C CNN
+	1    5600 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 5F97DAD7
+P 5850 4600
+F 0 "SW19" H 5850 4885 50  0000 C CNN
+F 1 "SW_Push" H 5850 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 5850 4800 50  0001 C CNN
+F 3 "~" H 5850 4800 50  0001 C CNN
+	1    5850 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 4600 5000 4600
+Wire Wire Line
+	4950 4650 4950 4600
+$Comp
+L Device:D_Small D16
+U 1 1 5F97DACF
+P 4950 4750
+F 0 "D16" V 4996 4680 50  0000 R CNN
+F 1 "D_Small" V 4905 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4950 4750 50  0001 C CNN
+F 3 "~" V 4950 4750 50  0001 C CNN
+	1    4950 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW18
+U 1 1 5F97DAC9
+P 5200 4600
+F 0 "SW18" H 5200 4885 50  0000 C CNN
+F 1 "SW_Push" H 5200 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 5200 4800 50  0001 C CNN
+F 3 "~" H 5200 4800 50  0001 C CNN
+	1    5200 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 4000 5650 4000
+Wire Wire Line
+	5600 4050 5600 4000
+$Comp
+L Device:D_Small D7
+U 1 1 5F97DAC1
+P 5600 4150
+F 0 "D7" V 5646 4080 50  0000 R CNN
+F 1 "D_Small" V 5555 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5600 4150 50  0001 C CNN
+F 3 "~" V 5600 4150 50  0001 C CNN
+	1    5600 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5F97DABB
+P 5850 4000
+F 0 "SW9" H 5850 4285 50  0000 C CNN
+F 1 "SW_Push" H 5850 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 5850 4200 50  0001 C CNN
+F 3 "~" H 5850 4200 50  0001 C CNN
+	1    5850 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 4000 5000 4000
+Wire Wire Line
+	4950 4050 4950 4000
+$Comp
+L Device:D_Small D6
+U 1 1 5F97DAB3
+P 4950 4150
+F 0 "D6" V 4996 4080 50  0000 R CNN
+F 1 "D_Small" V 4905 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4950 4150 50  0001 C CNN
+F 3 "~" V 4950 4150 50  0001 C CNN
+	1    4950 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5F97DAAD
+P 5200 4000
+F 0 "SW8" H 5200 4285 50  0000 C CNN
+F 1 "SW_Push" H 5200 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 5200 4200 50  0001 C CNN
+F 3 "~" H 5200 4200 50  0001 C CNN
+	1    5200 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 5200 4000 5200
+Wire Wire Line
+	3950 5250 3950 5200
+$Comp
+L Device:D_Small D25
+U 1 1 5F9104B3
+P 3950 5350
+F 0 "D25" V 3996 5280 50  0000 R CNN
+F 1 "D_Small" V 3905 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3950 5350 50  0001 C CNN
+F 3 "~" V 3950 5350 50  0001 C CNN
+	1    3950 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW27
+U 1 1 5F9104AD
+P 4200 5200
+F 0 "SW27" H 4200 5485 50  0000 C CNN
+F 1 "SW_Push" H 4200 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 4200 5400 50  0001 C CNN
+F 3 "~" H 4200 5400 50  0001 C CNN
+	1    4200 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 4600 4000 4600
+Wire Wire Line
+	3950 4650 3950 4600
+$Comp
+L Device:D_Small D15
+U 1 1 5F9104A5
+P 3950 4750
+F 0 "D15" V 3996 4680 50  0000 R CNN
+F 1 "D_Small" V 3905 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3950 4750 50  0001 C CNN
+F 3 "~" V 3950 4750 50  0001 C CNN
+	1    3950 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW17
+U 1 1 5F91049F
+P 4200 4600
+F 0 "SW17" H 4200 4885 50  0000 C CNN
+F 1 "SW_Push" H 4200 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 4200 4800 50  0001 C CNN
+F 3 "~" H 4200 4800 50  0001 C CNN
+	1    4200 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 4000 4000 4000
+Wire Wire Line
+	3950 4050 3950 4000
+$Comp
+L Device:D_Small D5
+U 1 1 5F910497
+P 3950 4150
+F 0 "D5" V 3996 4080 50  0000 R CNN
+F 1 "D_Small" V 3905 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3950 4150 50  0001 C CNN
+F 3 "~" V 3950 4150 50  0001 C CNN
+	1    3950 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5F910491
+P 4200 4000
+F 0 "SW7" H 4200 4285 50  0000 C CNN
+F 1 "SW_Push" H 4200 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 4200 4200 50  0001 C CNN
+F 3 "~" H 4200 4200 50  0001 C CNN
+	1    4200 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 5200 3350 5200
+Wire Wire Line
+	3300 5250 3300 5200
+$Comp
+L Device:D_Small D24
+U 1 1 5F90B7A1
+P 3300 5350
+F 0 "D24" V 3346 5280 50  0000 R CNN
+F 1 "D_Small" V 3255 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3300 5350 50  0001 C CNN
+F 3 "~" V 3300 5350 50  0001 C CNN
+	1    3300 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW26
+U 1 1 5F90B79B
+P 3550 5200
+F 0 "SW26" H 3550 5485 50  0000 C CNN
+F 1 "SW_Push" H 3550 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 3550 5400 50  0001 C CNN
+F 3 "~" H 3550 5400 50  0001 C CNN
+	1    3550 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 5200 2700 5200
+Wire Wire Line
+	2650 5250 2650 5200
+$Comp
+L Device:D_Small D23
+U 1 1 5F90B793
+P 2650 5350
+F 0 "D23" V 2696 5280 50  0000 R CNN
+F 1 "D_Small" V 2605 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2650 5350 50  0001 C CNN
+F 3 "~" V 2650 5350 50  0001 C CNN
+	1    2650 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW25
+U 1 1 5F90B78D
+P 2900 5200
+F 0 "SW25" H 2900 5485 50  0000 C CNN
+F 1 "SW_Push" H 2900 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 2900 5400 50  0001 C CNN
+F 3 "~" H 2900 5400 50  0001 C CNN
+	1    2900 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 5200 2050 5200
+Wire Wire Line
+	2000 5250 2000 5200
+$Comp
+L Device:D_Small D22
+U 1 1 5F90B785
+P 2000 5350
+F 0 "D22" V 2046 5280 50  0000 R CNN
+F 1 "D_Small" V 1955 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2000 5350 50  0001 C CNN
+F 3 "~" V 2000 5350 50  0001 C CNN
+	1    2000 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW24
+U 1 1 5F90B77F
+P 2250 5200
+F 0 "SW24" H 2250 5485 50  0000 C CNN
+F 1 "SW_Push" H 2250 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 2250 5400 50  0001 C CNN
+F 3 "~" H 2250 5400 50  0001 C CNN
+	1    2250 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 5200 1400 5200
+Wire Wire Line
+	1350 5250 1350 5200
+$Comp
+L Device:D_Small D21
+U 1 1 5F90B777
+P 1350 5350
+F 0 "D21" V 1396 5280 50  0000 R CNN
+F 1 "D_Small" V 1305 5280 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 5350 50  0001 C CNN
+F 3 "~" V 1350 5350 50  0001 C CNN
+	1    1350 5350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW23
+U 1 1 5F90B771
+P 1600 5200
+F 0 "SW23" H 1600 5485 50  0000 C CNN
+F 1 "SW_Push" H 1600 5394 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 1600 5400 50  0001 C CNN
+F 3 "~" H 1600 5400 50  0001 C CNN
+	1    1600 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 4600 3350 4600
+Wire Wire Line
+	3300 4650 3300 4600
+$Comp
+L Device:D_Small D14
+U 1 1 5F901B79
+P 3300 4750
+F 0 "D14" V 3346 4680 50  0000 R CNN
+F 1 "D_Small" V 3255 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3300 4750 50  0001 C CNN
+F 3 "~" V 3300 4750 50  0001 C CNN
+	1    3300 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5F901B73
+P 3550 4600
+F 0 "SW16" H 3550 4885 50  0000 C CNN
+F 1 "SW_Push" H 3550 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 3550 4800 50  0001 C CNN
+F 3 "~" H 3550 4800 50  0001 C CNN
+	1    3550 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 4600 2700 4600
+Wire Wire Line
+	2650 4650 2650 4600
+$Comp
+L Device:D_Small D13
+U 1 1 5F901B6B
+P 2650 4750
+F 0 "D13" V 2696 4680 50  0000 R CNN
+F 1 "D_Small" V 2605 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2650 4750 50  0001 C CNN
+F 3 "~" V 2650 4750 50  0001 C CNN
+	1    2650 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 5F901B65
+P 2900 4600
+F 0 "SW15" H 2900 4885 50  0000 C CNN
+F 1 "SW_Push" H 2900 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 2900 4800 50  0001 C CNN
+F 3 "~" H 2900 4800 50  0001 C CNN
+	1    2900 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 4000 3350 4000
+Wire Wire Line
+	3300 4050 3300 4000
+$Comp
+L Device:D_Small D4
+U 1 1 5F901B5D
+P 3300 4150
+F 0 "D4" V 3346 4080 50  0000 R CNN
+F 1 "D_Small" V 3255 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3300 4150 50  0001 C CNN
+F 3 "~" V 3300 4150 50  0001 C CNN
+	1    3300 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5F901B57
+P 3550 4000
+F 0 "SW6" H 3550 4285 50  0000 C CNN
+F 1 "SW_Push" H 3550 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 3550 4200 50  0001 C CNN
+F 3 "~" H 3550 4200 50  0001 C CNN
+	1    3550 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 4000 2700 4000
+Wire Wire Line
+	2650 4050 2650 4000
+$Comp
+L Device:D_Small D3
+U 1 1 5F901B4F
+P 2650 4150
+F 0 "D3" V 2696 4080 50  0000 R CNN
+F 1 "D_Small" V 2605 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2650 4150 50  0001 C CNN
+F 3 "~" V 2650 4150 50  0001 C CNN
+	1    2650 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5F901B49
+P 2900 4000
+F 0 "SW5" H 2900 4285 50  0000 C CNN
+F 1 "SW_Push" H 2900 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 2900 4200 50  0001 C CNN
+F 3 "~" H 2900 4200 50  0001 C CNN
+	1    2900 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 4600 2050 4600
+Wire Wire Line
+	2000 4650 2000 4600
+$Comp
+L Device:D_Small D12
+U 1 1 5F8F50AF
+P 2000 4750
+F 0 "D12" V 2046 4680 50  0000 R CNN
+F 1 "D_Small" V 1955 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2000 4750 50  0001 C CNN
+F 3 "~" V 2000 4750 50  0001 C CNN
+	1    2000 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5F8F50A9
+P 2250 4600
+F 0 "SW14" H 2250 4885 50  0000 C CNN
+F 1 "SW_Push" H 2250 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 2250 4800 50  0001 C CNN
+F 3 "~" H 2250 4800 50  0001 C CNN
+	1    2250 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 4600 1400 4600
+Wire Wire Line
+	1350 4650 1350 4600
+$Comp
+L Device:D_Small D11
+U 1 1 5F8F412B
+P 1350 4750
+F 0 "D11" V 1396 4680 50  0000 R CNN
+F 1 "D_Small" V 1305 4680 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 4750 50  0001 C CNN
+F 3 "~" V 1350 4750 50  0001 C CNN
+	1    1350 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5F8F4125
+P 1600 4600
+F 0 "SW13" H 1600 4885 50  0000 C CNN
+F 1 "SW_Push" H 1600 4794 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 1600 4800 50  0001 C CNN
+F 3 "~" H 1600 4800 50  0001 C CNN
+	1    1600 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 4000 2050 4000
+Wire Wire Line
+	2000 4050 2000 4000
+$Comp
+L Device:D_Small D2
+U 1 1 5F8F289B
+P 2000 4150
+F 0 "D2" V 2046 4080 50  0000 R CNN
+F 1 "D_Small" V 1955 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2000 4150 50  0001 C CNN
+F 3 "~" V 2000 4150 50  0001 C CNN
+	1    2000 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5F8F2895
+P 2250 4000
+F 0 "SW4" H 2250 4285 50  0000 C CNN
+F 1 "SW_Push" H 2250 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 2250 4200 50  0001 C CNN
+F 3 "~" H 2250 4200 50  0001 C CNN
+	1    2250 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 4000 1400 4000
+Wire Wire Line
+	1350 4050 1350 4000
+$Comp
+L Device:D_Small D1
+U 1 1 5F8EFEA4
+P 1350 4150
+F 0 "D1" V 1396 4080 50  0000 R CNN
+F 1 "D_Small" V 1305 4080 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 4150 50  0001 C CNN
+F 3 "~" V 1350 4150 50  0001 C CNN
+	1    1350 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5F8EDC7E
+P 1600 4000
+F 0 "SW3" H 1600 4285 50  0000 C CNN
+F 1 "SW_Push" H 1600 4194 50  0000 C CNN
+F 2 "switchfootprints:Choc_PG1350_Choc_Spacing" H 1600 4200 50  0001 C CNN
+F 3 "~" H 1600 4200 50  0001 C CNN
+	1    1600 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 1450 8250 1450
+Wire Wire Line
+	8100 1250 8100 1450
+Wire Wire Line
+	8100 1250 8250 1250
+Wire Wire Line
+	8550 1250 9100 1250
+Wire Wire Line
+	8550 1450 8550 1250
+$Comp
+L Device:Battery_Cell BT2
+U 1 1 5FE54E51
+P 8350 1450
+F 0 "BT2" V 8095 1500 50  0000 C CNN
+F 1 "Battery_Cell" V 8186 1500 50  0000 C CNN
+F 2 "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal" V 8350 1510 50  0001 C CNN
+F 3 "~" V 8350 1510 50  0001 C CNN
+	1    8350 1450
 	0    1    1    0   
 $EndComp
 $Comp
-L power:+BATT #PWR01
-U 1 1 5F8E9448
-P 6200 1100
-F 0 "#PWR01" H 6200 950 50  0001 C CNN
-F 1 "+BATT" V 6215 1228 50  0000 L CNN
-F 2 "" H 6200 1100 50  0001 C CNN
-F 3 "" H 6200 1100 50  0001 C CNN
-	1    6200 1100
+L power:GND #PWR0102
+U 1 1 5FDA7CF6
+P 4800 1400
+F 0 "#PWR0102" H 4800 1150 50  0001 C CNN
+F 1 "GND" V 4805 1272 50  0000 R CNN
+F 2 "" H 4800 1400 50  0001 C CNN
+F 3 "" H 4800 1400 50  0001 C CNN
+	1    4800 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5FDA1BE2
+P 4800 1300
+F 0 "#PWR0101" H 4800 1050 50  0001 C CNN
+F 1 "GND" V 4805 1172 50  0000 R CNN
+F 2 "" H 4800 1300 50  0001 C CNN
+F 3 "" H 4800 1300 50  0001 C CNN
+	1    4800 1300
+	0    1    1    0   
+$EndComp
+Text GLabel 4800 2100 0    50   Input ~ 0
+ROW3
+Text GLabel 4800 2000 0    50   Input ~ 0
+ROW2
+Text GLabel 4800 1900 0    50   Input ~ 0
+ROW1
+Text GLabel 4800 1800 0    50   Input ~ 0
+ROW0
+Text GLabel 6200 1900 2    50   Input ~ 0
+COL9
+Text GLabel 6200 1800 2    50   Input ~ 0
+COL8
+Text GLabel 6200 1700 2    50   Input ~ 0
+COL7
+Text GLabel 6200 1600 2    50   Input ~ 0
+COL6
+Text GLabel 6200 1500 2    50   Input ~ 0
+COL5
+Text GLabel 4800 1700 0    50   Input ~ 0
+COL4
+Text GLabel 4800 1600 0    50   Input ~ 0
+COL3
+Text GLabel 4800 1500 0    50   Input ~ 0
+COL2
+Text GLabel 4800 1200 0    50   Input ~ 0
+COL1
+Text GLabel 4800 1100 0    50   Input ~ 0
+COL0
+Connection ~ 8100 1250
+$Comp
+L power:GND #PWR03
+U 1 1 5F8F0EAC
+P 8100 1250
+F 0 "#PWR03" H 8100 1000 50  0001 C CNN
+F 1 "GND" V 8105 1122 50  0000 R CNN
+F 2 "" H 8100 1250 50  0001 C CNN
+F 3 "" H 8100 1250 50  0001 C CNN
+	1    8100 1250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5F8F0BB6
+P 6200 1200
+F 0 "#PWR02" H 6200 950 50  0001 C CNN
+F 1 "GND" V 6205 1072 50  0000 R CNN
+F 2 "" H 6200 1200 50  0001 C CNN
+F 3 "" H 6200 1200 50  0001 C CNN
+	1    6200 1200
+	0    -1   -1   0   
+$EndComp
+Connection ~ 8550 1250
+Wire Wire Line
+	8400 1250 8550 1250
+$Comp
+L Switch:SW_SPDT SW1
+U 1 1 5F8F92AB
+P 9300 1150
+F 0 "SW1" H 9300 825 50  0000 C CNN
+F 1 "SW_SPDT" H 9300 916 50  0000 C CNN
+F 2 "custom-parts:OS102011MA1QN1" H 9300 1150 50  0001 C CNN
+F 3 "~" H 9300 1150 50  0001 C CNN
+	1    9300 1150
+	-1   0    0    1   
+$EndComp
+Text GLabel 8500 1850 0    50   Input ~ 0
+RST
+Text GLabel 6200 1300 2    50   Input ~ 0
+RST
+$Comp
+L power:GND #PWR06
+U 1 1 5F8EF087
+P 8900 1850
+F 0 "#PWR06" H 8900 1600 50  0001 C CNN
+F 1 "GND" V 8905 1722 50  0000 R CNN
+F 2 "" H 8900 1850 50  0001 C CNN
+F 3 "" H 8900 1850 50  0001 C CNN
+	1    8900 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5F8EDB37
+P 8700 1850
+F 0 "SW2" H 8700 2135 50  0000 C CNN
+F 1 "SW_Push" H 8700 2044 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 8700 2050 50  0001 C CNN
+F 3 "~" H 8700 2050 50  0001 C CNN
+	1    8700 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR05
+U 1 1 5F8ED064
+P 6200 1400
+F 0 "#PWR05" H 6200 1250 50  0001 C CNN
+F 1 "VCC" V 6215 1528 50  0000 L CNN
+F 2 "" H 6200 1400 50  0001 C CNN
+F 3 "" H 6200 1400 50  0001 C CNN
+	1    6200 1400
 	0    1    1    0   
 $EndComp
 $Comp
@@ -59,1277 +1345,36 @@ F 3 "" H 9500 1150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR05
-U 1 1 5F8ED064
-P 6200 1400
-F 0 "#PWR05" H 6200 1250 50  0001 C CNN
-F 1 "VCC" V 6215 1528 50  0000 L CNN
-F 2 "" H 6200 1400 50  0001 C CNN
-F 3 "" H 6200 1400 50  0001 C CNN
-	1    6200 1400
+L power:+BATT #PWR01
+U 1 1 5F8E9448
+P 6200 1100
+F 0 "#PWR01" H 6200 950 50  0001 C CNN
+F 1 "+BATT" V 6215 1228 50  0000 L CNN
+F 2 "" H 6200 1100 50  0001 C CNN
+F 3 "" H 6200 1100 50  0001 C CNN
+	1    6200 1100
 	0    1    1    0   
 $EndComp
 $Comp
-L Switch:SW_Push SW2
-U 1 1 5F8EDB37
-P 8700 1850
-F 0 "SW2" H 8700 2135 50  0000 C CNN
-F 1 "SW_Push" H 8700 2044 50  0000 C CNN
-F 2 "Button_Switch_THT:SW_PUSH_6mm" H 8700 2050 50  0001 C CNN
-F 3 "~" H 8700 2050 50  0001 C CNN
-	1    8700 1850
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR06
-U 1 1 5F8EF087
-P 8900 1850
-F 0 "#PWR06" H 8900 1600 50  0001 C CNN
-F 1 "GND" V 8905 1722 50  0000 R CNN
-F 2 "" H 8900 1850 50  0001 C CNN
-F 3 "" H 8900 1850 50  0001 C CNN
-	1    8900 1850
-	0    -1   -1   0   
-$EndComp
-Text GLabel 6200 1300 2    50   Input ~ 0
-RST
-Text GLabel 8500 1850 0    50   Input ~ 0
-RST
-$Comp
-L Switch:SW_SPDT SW1
-U 1 1 5F8F92AB
-P 9300 1150
-F 0 "SW1" H 9300 825 50  0000 C CNN
-F 1 "SW_SPDT" H 9300 916 50  0000 C CNN
-F 2 "custom-parts:OS102011MA1QN1" H 9300 1150 50  0001 C CNN
-F 3 "~" H 9300 1150 50  0001 C CNN
-	1    9300 1150
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	8850 1250 9100 1250
-$Comp
-L power:GND #PWR02
-U 1 1 5F8F0BB6
-P 6200 1200
-F 0 "#PWR02" H 6200 950 50  0001 C CNN
-F 1 "GND" V 6205 1072 50  0000 R CNN
-F 2 "" H 6200 1200 50  0001 C CNN
-F 3 "" H 6200 1200 50  0001 C CNN
-	1    6200 1200
-	0    -1   -1   0   
-$EndComp
-$Comp
-L power:GND #PWR03
-U 1 1 5F8F0EAC
-P 8550 1250
-F 0 "#PWR03" H 8550 1000 50  0001 C CNN
-F 1 "GND" V 8555 1122 50  0000 R CNN
-F 2 "" H 8550 1250 50  0001 C CNN
-F 3 "" H 8550 1250 50  0001 C CNN
-	1    8550 1250
+L Device:Battery_Cell BT1
+U 1 1 5F8F4EF0
+P 8350 1250
+F 0 "BT1" V 8095 1300 50  0000 C CNN
+F 1 "Battery_Cell" V 8186 1300 50  0000 C CNN
+F 2 "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm" V 8350 1310 50  0001 C CNN
+F 3 "~" V 8350 1310 50  0001 C CNN
+	1    8350 1250
 	0    1    1    0   
 $EndComp
 $Comp
-L Switch:SW_Push SW3
-U 1 1 5F8EDC7E
-P 1600 4000
-F 0 "SW3" H 1600 4285 50  0000 C CNN
-F 1 "SW_Push" H 1600 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 1600 4200 50  0001 C CNN
-F 3 "~" H 1600 4200 50  0001 C CNN
-	1    1600 4000
+L keebio:ProMicro U1
+U 1 1 5F8E5FF7
+P 5500 1650
+F 0 "U1" H 5500 2487 60  0000 C CNN
+F 1 "ProMicro" H 5500 2381 60  0000 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro" V 6550 -850 60  0001 C CNN
+F 3 "" V 6550 -850 60  0001 C CNN
+	1    5500 1650
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:D_Small D1
-U 1 1 5F8EFEA4
-P 1350 4150
-F 0 "D1" V 1396 4080 50  0000 R CNN
-F 1 "D_Small" V 1305 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 4150 50  0001 C CNN
-F 3 "~" V 1350 4150 50  0001 C CNN
-	1    1350 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	1350 4050 1350 4000
-Wire Wire Line
-	1350 4000 1400 4000
-$Comp
-L Switch:SW_Push SW4
-U 1 1 5F8F2895
-P 2250 4000
-F 0 "SW4" H 2250 4285 50  0000 C CNN
-F 1 "SW_Push" H 2250 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 2250 4200 50  0001 C CNN
-F 3 "~" H 2250 4200 50  0001 C CNN
-	1    2250 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D2
-U 1 1 5F8F289B
-P 2000 4150
-F 0 "D2" V 2046 4080 50  0000 R CNN
-F 1 "D_Small" V 1955 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2000 4150 50  0001 C CNN
-F 3 "~" V 2000 4150 50  0001 C CNN
-	1    2000 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2000 4050 2000 4000
-Wire Wire Line
-	2000 4000 2050 4000
-$Comp
-L Switch:SW_Push SW13
-U 1 1 5F8F4125
-P 1600 4600
-F 0 "SW13" H 1600 4885 50  0000 C CNN
-F 1 "SW_Push" H 1600 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 1600 4800 50  0001 C CNN
-F 3 "~" H 1600 4800 50  0001 C CNN
-	1    1600 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D11
-U 1 1 5F8F412B
-P 1350 4750
-F 0 "D11" V 1396 4680 50  0000 R CNN
-F 1 "D_Small" V 1305 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 4750 50  0001 C CNN
-F 3 "~" V 1350 4750 50  0001 C CNN
-	1    1350 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	1350 4650 1350 4600
-Wire Wire Line
-	1350 4600 1400 4600
-$Comp
-L Switch:SW_Push SW14
-U 1 1 5F8F50A9
-P 2250 4600
-F 0 "SW14" H 2250 4885 50  0000 C CNN
-F 1 "SW_Push" H 2250 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 2250 4800 50  0001 C CNN
-F 3 "~" H 2250 4800 50  0001 C CNN
-	1    2250 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D12
-U 1 1 5F8F50AF
-P 2000 4750
-F 0 "D12" V 2046 4680 50  0000 R CNN
-F 1 "D_Small" V 1955 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2000 4750 50  0001 C CNN
-F 3 "~" V 2000 4750 50  0001 C CNN
-	1    2000 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2000 4650 2000 4600
-Wire Wire Line
-	2000 4600 2050 4600
-$Comp
-L Switch:SW_Push SW5
-U 1 1 5F901B49
-P 2900 4000
-F 0 "SW5" H 2900 4285 50  0000 C CNN
-F 1 "SW_Push" H 2900 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 2900 4200 50  0001 C CNN
-F 3 "~" H 2900 4200 50  0001 C CNN
-	1    2900 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D3
-U 1 1 5F901B4F
-P 2650 4150
-F 0 "D3" V 2696 4080 50  0000 R CNN
-F 1 "D_Small" V 2605 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2650 4150 50  0001 C CNN
-F 3 "~" V 2650 4150 50  0001 C CNN
-	1    2650 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2650 4050 2650 4000
-Wire Wire Line
-	2650 4000 2700 4000
-$Comp
-L Switch:SW_Push SW6
-U 1 1 5F901B57
-P 3550 4000
-F 0 "SW6" H 3550 4285 50  0000 C CNN
-F 1 "SW_Push" H 3550 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 3550 4200 50  0001 C CNN
-F 3 "~" H 3550 4200 50  0001 C CNN
-	1    3550 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D4
-U 1 1 5F901B5D
-P 3300 4150
-F 0 "D4" V 3346 4080 50  0000 R CNN
-F 1 "D_Small" V 3255 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3300 4150 50  0001 C CNN
-F 3 "~" V 3300 4150 50  0001 C CNN
-	1    3300 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3300 4050 3300 4000
-Wire Wire Line
-	3300 4000 3350 4000
-$Comp
-L Switch:SW_Push SW15
-U 1 1 5F901B65
-P 2900 4600
-F 0 "SW15" H 2900 4885 50  0000 C CNN
-F 1 "SW_Push" H 2900 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 2900 4800 50  0001 C CNN
-F 3 "~" H 2900 4800 50  0001 C CNN
-	1    2900 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D13
-U 1 1 5F901B6B
-P 2650 4750
-F 0 "D13" V 2696 4680 50  0000 R CNN
-F 1 "D_Small" V 2605 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2650 4750 50  0001 C CNN
-F 3 "~" V 2650 4750 50  0001 C CNN
-	1    2650 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2650 4650 2650 4600
-Wire Wire Line
-	2650 4600 2700 4600
-$Comp
-L Switch:SW_Push SW16
-U 1 1 5F901B73
-P 3550 4600
-F 0 "SW16" H 3550 4885 50  0000 C CNN
-F 1 "SW_Push" H 3550 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 3550 4800 50  0001 C CNN
-F 3 "~" H 3550 4800 50  0001 C CNN
-	1    3550 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D14
-U 1 1 5F901B79
-P 3300 4750
-F 0 "D14" V 3346 4680 50  0000 R CNN
-F 1 "D_Small" V 3255 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3300 4750 50  0001 C CNN
-F 3 "~" V 3300 4750 50  0001 C CNN
-	1    3300 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3300 4650 3300 4600
-Wire Wire Line
-	3300 4600 3350 4600
-$Comp
-L Switch:SW_Push SW23
-U 1 1 5F90B771
-P 1600 5200
-F 0 "SW23" H 1600 5485 50  0000 C CNN
-F 1 "SW_Push" H 1600 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 1600 5400 50  0001 C CNN
-F 3 "~" H 1600 5400 50  0001 C CNN
-	1    1600 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D21
-U 1 1 5F90B777
-P 1350 5350
-F 0 "D21" V 1396 5280 50  0000 R CNN
-F 1 "D_Small" V 1305 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 1350 5350 50  0001 C CNN
-F 3 "~" V 1350 5350 50  0001 C CNN
-	1    1350 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	1350 5250 1350 5200
-Wire Wire Line
-	1350 5200 1400 5200
-$Comp
-L Switch:SW_Push SW24
-U 1 1 5F90B77F
-P 2250 5200
-F 0 "SW24" H 2250 5485 50  0000 C CNN
-F 1 "SW_Push" H 2250 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 2250 5400 50  0001 C CNN
-F 3 "~" H 2250 5400 50  0001 C CNN
-	1    2250 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D22
-U 1 1 5F90B785
-P 2000 5350
-F 0 "D22" V 2046 5280 50  0000 R CNN
-F 1 "D_Small" V 1955 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2000 5350 50  0001 C CNN
-F 3 "~" V 2000 5350 50  0001 C CNN
-	1    2000 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2000 5250 2000 5200
-Wire Wire Line
-	2000 5200 2050 5200
-$Comp
-L Switch:SW_Push SW25
-U 1 1 5F90B78D
-P 2900 5200
-F 0 "SW25" H 2900 5485 50  0000 C CNN
-F 1 "SW_Push" H 2900 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 2900 5400 50  0001 C CNN
-F 3 "~" H 2900 5400 50  0001 C CNN
-	1    2900 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D23
-U 1 1 5F90B793
-P 2650 5350
-F 0 "D23" V 2696 5280 50  0000 R CNN
-F 1 "D_Small" V 2605 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2650 5350 50  0001 C CNN
-F 3 "~" V 2650 5350 50  0001 C CNN
-	1    2650 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2650 5250 2650 5200
-Wire Wire Line
-	2650 5200 2700 5200
-$Comp
-L Switch:SW_Push SW26
-U 1 1 5F90B79B
-P 3550 5200
-F 0 "SW26" H 3550 5485 50  0000 C CNN
-F 1 "SW_Push" H 3550 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 3550 5400 50  0001 C CNN
-F 3 "~" H 3550 5400 50  0001 C CNN
-	1    3550 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D24
-U 1 1 5F90B7A1
-P 3300 5350
-F 0 "D24" V 3346 5280 50  0000 R CNN
-F 1 "D_Small" V 3255 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3300 5350 50  0001 C CNN
-F 3 "~" V 3300 5350 50  0001 C CNN
-	1    3300 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3300 5250 3300 5200
-Wire Wire Line
-	3300 5200 3350 5200
-$Comp
-L Switch:SW_Push SW7
-U 1 1 5F910491
-P 4200 4000
-F 0 "SW7" H 4200 4285 50  0000 C CNN
-F 1 "SW_Push" H 4200 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 4200 4200 50  0001 C CNN
-F 3 "~" H 4200 4200 50  0001 C CNN
-	1    4200 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D5
-U 1 1 5F910497
-P 3950 4150
-F 0 "D5" V 3996 4080 50  0000 R CNN
-F 1 "D_Small" V 3905 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3950 4150 50  0001 C CNN
-F 3 "~" V 3950 4150 50  0001 C CNN
-	1    3950 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3950 4050 3950 4000
-Wire Wire Line
-	3950 4000 4000 4000
-$Comp
-L Switch:SW_Push SW17
-U 1 1 5F91049F
-P 4200 4600
-F 0 "SW17" H 4200 4885 50  0000 C CNN
-F 1 "SW_Push" H 4200 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 4200 4800 50  0001 C CNN
-F 3 "~" H 4200 4800 50  0001 C CNN
-	1    4200 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D15
-U 1 1 5F9104A5
-P 3950 4750
-F 0 "D15" V 3996 4680 50  0000 R CNN
-F 1 "D_Small" V 3905 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3950 4750 50  0001 C CNN
-F 3 "~" V 3950 4750 50  0001 C CNN
-	1    3950 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3950 4650 3950 4600
-Wire Wire Line
-	3950 4600 4000 4600
-$Comp
-L Switch:SW_Push SW27
-U 1 1 5F9104AD
-P 4200 5200
-F 0 "SW27" H 4200 5485 50  0000 C CNN
-F 1 "SW_Push" H 4200 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 4200 5400 50  0001 C CNN
-F 3 "~" H 4200 5400 50  0001 C CNN
-	1    4200 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D25
-U 1 1 5F9104B3
-P 3950 5350
-F 0 "D25" V 3996 5280 50  0000 R CNN
-F 1 "D_Small" V 3905 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3950 5350 50  0001 C CNN
-F 3 "~" V 3950 5350 50  0001 C CNN
-	1    3950 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3950 5250 3950 5200
-Wire Wire Line
-	3950 5200 4000 5200
-$Comp
-L Switch:SW_Push SW8
-U 1 1 5F97DAAD
-P 5200 4000
-F 0 "SW8" H 5200 4285 50  0000 C CNN
-F 1 "SW_Push" H 5200 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 5200 4200 50  0001 C CNN
-F 3 "~" H 5200 4200 50  0001 C CNN
-	1    5200 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D6
-U 1 1 5F97DAB3
-P 4950 4150
-F 0 "D6" V 4996 4080 50  0000 R CNN
-F 1 "D_Small" V 4905 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4950 4150 50  0001 C CNN
-F 3 "~" V 4950 4150 50  0001 C CNN
-	1    4950 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	4950 4050 4950 4000
-Wire Wire Line
-	4950 4000 5000 4000
-$Comp
-L Switch:SW_Push SW9
-U 1 1 5F97DABB
-P 5850 4000
-F 0 "SW9" H 5850 4285 50  0000 C CNN
-F 1 "SW_Push" H 5850 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 5850 4200 50  0001 C CNN
-F 3 "~" H 5850 4200 50  0001 C CNN
-	1    5850 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D7
-U 1 1 5F97DAC1
-P 5600 4150
-F 0 "D7" V 5646 4080 50  0000 R CNN
-F 1 "D_Small" V 5555 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5600 4150 50  0001 C CNN
-F 3 "~" V 5600 4150 50  0001 C CNN
-	1    5600 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	5600 4050 5600 4000
-Wire Wire Line
-	5600 4000 5650 4000
-$Comp
-L Switch:SW_Push SW18
-U 1 1 5F97DAC9
-P 5200 4600
-F 0 "SW18" H 5200 4885 50  0000 C CNN
-F 1 "SW_Push" H 5200 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 5200 4800 50  0001 C CNN
-F 3 "~" H 5200 4800 50  0001 C CNN
-	1    5200 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D16
-U 1 1 5F97DACF
-P 4950 4750
-F 0 "D16" V 4996 4680 50  0000 R CNN
-F 1 "D_Small" V 4905 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4950 4750 50  0001 C CNN
-F 3 "~" V 4950 4750 50  0001 C CNN
-	1    4950 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	4950 4650 4950 4600
-Wire Wire Line
-	4950 4600 5000 4600
-$Comp
-L Switch:SW_Push SW19
-U 1 1 5F97DAD7
-P 5850 4600
-F 0 "SW19" H 5850 4885 50  0000 C CNN
-F 1 "SW_Push" H 5850 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 5850 4800 50  0001 C CNN
-F 3 "~" H 5850 4800 50  0001 C CNN
-	1    5850 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D17
-U 1 1 5F97DADD
-P 5600 4750
-F 0 "D17" V 5646 4680 50  0000 R CNN
-F 1 "D_Small" V 5555 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5600 4750 50  0001 C CNN
-F 3 "~" V 5600 4750 50  0001 C CNN
-	1    5600 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	5600 4650 5600 4600
-Wire Wire Line
-	5600 4600 5650 4600
-$Comp
-L Switch:SW_Push SW10
-U 1 1 5F97DAE5
-P 6500 4000
-F 0 "SW10" H 6500 4285 50  0000 C CNN
-F 1 "SW_Push" H 6500 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 6500 4200 50  0001 C CNN
-F 3 "~" H 6500 4200 50  0001 C CNN
-	1    6500 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D8
-U 1 1 5F97DAEB
-P 6250 4150
-F 0 "D8" V 6296 4080 50  0000 R CNN
-F 1 "D_Small" V 6205 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6250 4150 50  0001 C CNN
-F 3 "~" V 6250 4150 50  0001 C CNN
-	1    6250 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6250 4050 6250 4000
-Wire Wire Line
-	6250 4000 6300 4000
-$Comp
-L Switch:SW_Push SW11
-U 1 1 5F97DAF3
-P 7150 4000
-F 0 "SW11" H 7150 4285 50  0000 C CNN
-F 1 "SW_Push" H 7150 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 7150 4200 50  0001 C CNN
-F 3 "~" H 7150 4200 50  0001 C CNN
-	1    7150 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D9
-U 1 1 5F97DAF9
-P 6900 4150
-F 0 "D9" V 6946 4080 50  0000 R CNN
-F 1 "D_Small" V 6855 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 4150 50  0001 C CNN
-F 3 "~" V 6900 4150 50  0001 C CNN
-	1    6900 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6900 4050 6900 4000
-Wire Wire Line
-	6900 4000 6950 4000
-$Comp
-L Switch:SW_Push SW20
-U 1 1 5F97DB01
-P 6500 4600
-F 0 "SW20" H 6500 4885 50  0000 C CNN
-F 1 "SW_Push" H 6500 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 6500 4800 50  0001 C CNN
-F 3 "~" H 6500 4800 50  0001 C CNN
-	1    6500 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D18
-U 1 1 5F97DB07
-P 6250 4750
-F 0 "D18" V 6296 4680 50  0000 R CNN
-F 1 "D_Small" V 6205 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6250 4750 50  0001 C CNN
-F 3 "~" V 6250 4750 50  0001 C CNN
-	1    6250 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6250 4650 6250 4600
-Wire Wire Line
-	6250 4600 6300 4600
-$Comp
-L Switch:SW_Push SW21
-U 1 1 5F97DB0F
-P 7150 4600
-F 0 "SW21" H 7150 4885 50  0000 C CNN
-F 1 "SW_Push" H 7150 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 7150 4800 50  0001 C CNN
-F 3 "~" H 7150 4800 50  0001 C CNN
-	1    7150 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D19
-U 1 1 5F97DB15
-P 6900 4750
-F 0 "D19" V 6946 4680 50  0000 R CNN
-F 1 "D_Small" V 6855 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 4750 50  0001 C CNN
-F 3 "~" V 6900 4750 50  0001 C CNN
-	1    6900 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6900 4650 6900 4600
-Wire Wire Line
-	6900 4600 6950 4600
-$Comp
-L Switch:SW_Push SW28
-U 1 1 5F97DB1D
-P 5200 5200
-F 0 "SW28" H 5200 5485 50  0000 C CNN
-F 1 "SW_Push" H 5200 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 5200 5400 50  0001 C CNN
-F 3 "~" H 5200 5400 50  0001 C CNN
-	1    5200 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D26
-U 1 1 5F97DB23
-P 4950 5350
-F 0 "D26" V 4996 5280 50  0000 R CNN
-F 1 "D_Small" V 4905 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4950 5350 50  0001 C CNN
-F 3 "~" V 4950 5350 50  0001 C CNN
-	1    4950 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	4950 5250 4950 5200
-Wire Wire Line
-	4950 5200 5000 5200
-$Comp
-L Switch:SW_Push SW29
-U 1 1 5F97DB2B
-P 5850 5200
-F 0 "SW29" H 5850 5485 50  0000 C CNN
-F 1 "SW_Push" H 5850 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 5850 5400 50  0001 C CNN
-F 3 "~" H 5850 5400 50  0001 C CNN
-	1    5850 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D27
-U 1 1 5F97DB31
-P 5600 5350
-F 0 "D27" V 5646 5280 50  0000 R CNN
-F 1 "D_Small" V 5555 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5600 5350 50  0001 C CNN
-F 3 "~" V 5600 5350 50  0001 C CNN
-	1    5600 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	5600 5250 5600 5200
-Wire Wire Line
-	5600 5200 5650 5200
-$Comp
-L Switch:SW_Push SW30
-U 1 1 5F97DB39
-P 6500 5200
-F 0 "SW30" H 6500 5485 50  0000 C CNN
-F 1 "SW_Push" H 6500 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 6500 5400 50  0001 C CNN
-F 3 "~" H 6500 5400 50  0001 C CNN
-	1    6500 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D28
-U 1 1 5F97DB3F
-P 6250 5350
-F 0 "D28" V 6296 5280 50  0000 R CNN
-F 1 "D_Small" V 6205 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6250 5350 50  0001 C CNN
-F 3 "~" V 6250 5350 50  0001 C CNN
-	1    6250 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6250 5250 6250 5200
-Wire Wire Line
-	6250 5200 6300 5200
-$Comp
-L Switch:SW_Push SW31
-U 1 1 5F97DB47
-P 7150 5200
-F 0 "SW31" H 7150 5485 50  0000 C CNN
-F 1 "SW_Push" H 7150 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 7150 5400 50  0001 C CNN
-F 3 "~" H 7150 5400 50  0001 C CNN
-	1    7150 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D29
-U 1 1 5F97DB4D
-P 6900 5350
-F 0 "D29" V 6946 5280 50  0000 R CNN
-F 1 "D_Small" V 6855 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 5350 50  0001 C CNN
-F 3 "~" V 6900 5350 50  0001 C CNN
-	1    6900 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6900 5250 6900 5200
-Wire Wire Line
-	6900 5200 6950 5200
-$Comp
-L Switch:SW_Push SW12
-U 1 1 5F97DB55
-P 7800 4000
-F 0 "SW12" H 7800 4285 50  0000 C CNN
-F 1 "SW_Push" H 7800 4194 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 7800 4200 50  0001 C CNN
-F 3 "~" H 7800 4200 50  0001 C CNN
-	1    7800 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D10
-U 1 1 5F97DB5B
-P 7550 4150
-F 0 "D10" V 7596 4080 50  0000 R CNN
-F 1 "D_Small" V 7505 4080 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7550 4150 50  0001 C CNN
-F 3 "~" V 7550 4150 50  0001 C CNN
-	1    7550 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	7550 4050 7550 4000
-Wire Wire Line
-	7550 4000 7600 4000
-$Comp
-L Switch:SW_Push SW22
-U 1 1 5F97DB63
-P 7800 4600
-F 0 "SW22" H 7800 4885 50  0000 C CNN
-F 1 "SW_Push" H 7800 4794 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 7800 4800 50  0001 C CNN
-F 3 "~" H 7800 4800 50  0001 C CNN
-	1    7800 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D20
-U 1 1 5F97DB69
-P 7550 4750
-F 0 "D20" V 7596 4680 50  0000 R CNN
-F 1 "D_Small" V 7505 4680 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7550 4750 50  0001 C CNN
-F 3 "~" V 7550 4750 50  0001 C CNN
-	1    7550 4750
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	7550 4650 7550 4600
-Wire Wire Line
-	7550 4600 7600 4600
-$Comp
-L Switch:SW_Push SW32
-U 1 1 5F97DB71
-P 7800 5200
-F 0 "SW32" H 7800 5485 50  0000 C CNN
-F 1 "SW_Push" H 7800 5394 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 7800 5400 50  0001 C CNN
-F 3 "~" H 7800 5400 50  0001 C CNN
-	1    7800 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D30
-U 1 1 5F97DB77
-P 7550 5350
-F 0 "D30" V 7596 5280 50  0000 R CNN
-F 1 "D_Small" V 7505 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7550 5350 50  0001 C CNN
-F 3 "~" V 7550 5350 50  0001 C CNN
-	1    7550 5350
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	7550 5250 7550 5200
-Wire Wire Line
-	7550 5200 7600 5200
-$Comp
-L Switch:SW_Push SW33
-U 1 1 5F986F26
-P 2900 5950
-F 0 "SW33" H 2900 6235 50  0000 C CNN
-F 1 "SW_Push" H 2900 6144 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 2900 6150 50  0001 C CNN
-F 3 "~" H 2900 6150 50  0001 C CNN
-	1    2900 5950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D31
-U 1 1 5F986F2C
-P 2650 6100
-F 0 "D31" V 2696 6030 50  0000 R CNN
-F 1 "D_Small" V 2605 6030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2650 6100 50  0001 C CNN
-F 3 "~" V 2650 6100 50  0001 C CNN
-	1    2650 6100
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	2650 6000 2650 5950
-Wire Wire Line
-	2650 5950 2700 5950
-$Comp
-L Switch:SW_Push SW34
-U 1 1 5F986F34
-P 3550 5950
-F 0 "SW34" H 3550 6235 50  0000 C CNN
-F 1 "SW_Push" H 3550 6144 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 3550 6150 50  0001 C CNN
-F 3 "~" H 3550 6150 50  0001 C CNN
-	1    3550 5950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D32
-U 1 1 5F986F3A
-P 3300 6100
-F 0 "D32" V 3346 6030 50  0000 R CNN
-F 1 "D_Small" V 3255 6030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3300 6100 50  0001 C CNN
-F 3 "~" V 3300 6100 50  0001 C CNN
-	1    3300 6100
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3300 6000 3300 5950
-Wire Wire Line
-	3300 5950 3350 5950
-$Comp
-L Switch:SW_Push SW35
-U 1 1 5F986F42
-P 4200 5950
-F 0 "SW35" H 4200 6235 50  0000 C CNN
-F 1 "SW_Push" H 4200 6144 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 4200 6150 50  0001 C CNN
-F 3 "~" H 4200 6150 50  0001 C CNN
-	1    4200 5950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D33
-U 1 1 5F986F48
-P 3950 6100
-F 0 "D33" V 3996 6030 50  0000 R CNN
-F 1 "D_Small" V 3905 6030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3950 6100 50  0001 C CNN
-F 3 "~" V 3950 6100 50  0001 C CNN
-	1    3950 6100
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3950 6000 3950 5950
-Wire Wire Line
-	3950 5950 4000 5950
-$Comp
-L Switch:SW_Push SW36
-U 1 1 5F98D868
-P 5200 5950
-F 0 "SW36" H 5200 6235 50  0000 C CNN
-F 1 "SW_Push" H 5200 6144 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 5200 6150 50  0001 C CNN
-F 3 "~" H 5200 6150 50  0001 C CNN
-	1    5200 5950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D34
-U 1 1 5F98D86E
-P 4950 6100
-F 0 "D34" V 4996 6030 50  0000 R CNN
-F 1 "D_Small" V 4905 6030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 4950 6100 50  0001 C CNN
-F 3 "~" V 4950 6100 50  0001 C CNN
-	1    4950 6100
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	4950 6000 4950 5950
-Wire Wire Line
-	4950 5950 5000 5950
-$Comp
-L Switch:SW_Push SW37
-U 1 1 5F98D876
-P 5850 5950
-F 0 "SW37" H 5850 6235 50  0000 C CNN
-F 1 "SW_Push" H 5850 6144 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 5850 6150 50  0001 C CNN
-F 3 "~" H 5850 6150 50  0001 C CNN
-	1    5850 5950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D35
-U 1 1 5F98D87C
-P 5600 6100
-F 0 "D35" V 5646 6030 50  0000 R CNN
-F 1 "D_Small" V 5555 6030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 5600 6100 50  0001 C CNN
-F 3 "~" V 5600 6100 50  0001 C CNN
-	1    5600 6100
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	5600 6000 5600 5950
-Wire Wire Line
-	5600 5950 5650 5950
-$Comp
-L Switch:SW_Push SW38
-U 1 1 5F98D884
-P 6500 5950
-F 0 "SW38" H 6500 6235 50  0000 C CNN
-F 1 "SW_Push" H 6500 6144 50  0000 C CNN
-F 2 "custom-parts:customchocfootprint" H 6500 6150 50  0001 C CNN
-F 3 "~" H 6500 6150 50  0001 C CNN
-	1    6500 5950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D36
-U 1 1 5F98D88A
-P 6250 6100
-F 0 "D36" V 6296 6030 50  0000 R CNN
-F 1 "D_Small" V 6205 6030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6250 6100 50  0001 C CNN
-F 3 "~" V 6250 6100 50  0001 C CNN
-	1    6250 6100
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	6250 6000 6250 5950
-Wire Wire Line
-	6250 5950 6300 5950
-Text GLabel 1800 3450 1    50   Input ~ 0
-COL0
-Text GLabel 2450 3450 1    50   Input ~ 0
-COL1
-Text GLabel 3100 3450 1    50   Input ~ 0
-COL2
-Text GLabel 3750 3450 1    50   Input ~ 0
-COL3
-Text GLabel 4400 3450 1    50   Input ~ 0
-COL4
-Text GLabel 5400 3450 1    50   Input ~ 0
-COL5
-Text GLabel 6100 3450 1    50   Input ~ 0
-COL6
-Text GLabel 6700 3450 1    50   Input ~ 0
-COL7
-Text GLabel 7350 3450 1    50   Input ~ 0
-COL8
-Text GLabel 8000 3450 1    50   Input ~ 0
-COL9
-Wire Wire Line
-	4400 3450 4400 4000
-Connection ~ 4400 4000
-Wire Wire Line
-	4400 4000 4400 4600
-Connection ~ 4400 4600
-Wire Wire Line
-	4400 4600 4400 5200
-Connection ~ 4400 5200
-Wire Wire Line
-	4400 5200 4400 5950
-Text GLabel 1050 4250 0    50   Input ~ 0
-ROW0
-Text GLabel 1050 4850 0    50   Input ~ 0
-ROW1
-Text GLabel 1050 5450 0    50   Input ~ 0
-ROW2
-Text GLabel 1050 6200 0    50   Input ~ 0
-ROW3
-Wire Wire Line
-	1800 3450 1800 4000
-Connection ~ 1800 4000
-Wire Wire Line
-	1800 4000 1800 4600
-Connection ~ 1800 4600
-Wire Wire Line
-	1800 4600 1800 5200
-Wire Wire Line
-	3750 3450 3750 4000
-Connection ~ 3750 4000
-Wire Wire Line
-	3750 4000 3750 4600
-Connection ~ 3750 4600
-Wire Wire Line
-	3750 4600 3750 5200
-Connection ~ 3750 5200
-Wire Wire Line
-	3750 5200 3750 5950
-Wire Wire Line
-	3100 3450 3100 4000
-Connection ~ 3100 4000
-Wire Wire Line
-	3100 4000 3100 4600
-Connection ~ 3100 4600
-Wire Wire Line
-	3100 4600 3100 5200
-Connection ~ 3100 5200
-Wire Wire Line
-	3100 5200 3100 5950
-Wire Wire Line
-	2450 3450 2450 4000
-Connection ~ 2450 4000
-Wire Wire Line
-	2450 4000 2450 4600
-Connection ~ 2450 4600
-Wire Wire Line
-	2450 4600 2450 5200
-Wire Wire Line
-	1050 4250 1350 4250
-Connection ~ 1350 4250
-Wire Wire Line
-	1350 4250 2000 4250
-Connection ~ 2000 4250
-Wire Wire Line
-	2000 4250 2650 4250
-Connection ~ 2650 4250
-Wire Wire Line
-	2650 4250 3300 4250
-Connection ~ 3300 4250
-Wire Wire Line
-	3300 4250 3950 4250
-Connection ~ 3950 4250
-Wire Wire Line
-	3950 4250 4950 4250
-Connection ~ 4950 4250
-Wire Wire Line
-	4950 4250 5600 4250
-Connection ~ 5600 4250
-Wire Wire Line
-	5600 4250 6250 4250
-Connection ~ 6250 4250
-Wire Wire Line
-	6250 4250 6900 4250
-Connection ~ 6900 4250
-Wire Wire Line
-	6900 4250 7550 4250
-Wire Wire Line
-	1050 4850 1350 4850
-Connection ~ 1350 4850
-Wire Wire Line
-	1350 4850 2000 4850
-Connection ~ 2000 4850
-Wire Wire Line
-	2000 4850 2650 4850
-Connection ~ 2650 4850
-Wire Wire Line
-	2650 4850 3300 4850
-Connection ~ 3300 4850
-Wire Wire Line
-	3300 4850 3950 4850
-Connection ~ 3950 4850
-Wire Wire Line
-	3950 4850 4950 4850
-Connection ~ 4950 4850
-Wire Wire Line
-	4950 4850 5600 4850
-Connection ~ 5600 4850
-Wire Wire Line
-	5600 4850 6250 4850
-Connection ~ 6250 4850
-Wire Wire Line
-	6250 4850 6900 4850
-Connection ~ 6900 4850
-Wire Wire Line
-	6900 4850 7550 4850
-Wire Wire Line
-	1050 5450 1350 5450
-Connection ~ 1350 5450
-Wire Wire Line
-	1350 5450 2000 5450
-Connection ~ 2000 5450
-Wire Wire Line
-	2000 5450 2650 5450
-Connection ~ 2650 5450
-Wire Wire Line
-	2650 5450 3300 5450
-Connection ~ 3300 5450
-Wire Wire Line
-	3300 5450 3950 5450
-Connection ~ 3950 5450
-Wire Wire Line
-	3950 5450 4950 5450
-Connection ~ 4950 5450
-Wire Wire Line
-	4950 5450 5600 5450
-Connection ~ 5600 5450
-Wire Wire Line
-	5600 5450 6250 5450
-Connection ~ 6250 5450
-Wire Wire Line
-	6250 5450 6900 5450
-Connection ~ 6900 5450
-Wire Wire Line
-	6900 5450 7550 5450
-Wire Wire Line
-	1050 6200 2650 6200
-Connection ~ 2650 6200
-Wire Wire Line
-	2650 6200 3300 6200
-Connection ~ 3300 6200
-Wire Wire Line
-	3300 6200 3950 6200
-Connection ~ 3950 6200
-Wire Wire Line
-	3950 6200 4950 6200
-Connection ~ 4950 6200
-Wire Wire Line
-	4950 6200 5600 6200
-Connection ~ 5600 6200
-Wire Wire Line
-	5600 6200 6250 6200
-Wire Wire Line
-	6700 3450 6700 4000
-Connection ~ 6700 4000
-Wire Wire Line
-	6700 4000 6700 4600
-Connection ~ 6700 4600
-Wire Wire Line
-	6700 4600 6700 5200
-Connection ~ 6700 5200
-Wire Wire Line
-	6700 5200 6700 5950
-Wire Wire Line
-	7350 3450 7350 4000
-Connection ~ 7350 4000
-Wire Wire Line
-	7350 4000 7350 4600
-Connection ~ 7350 4600
-Wire Wire Line
-	7350 4600 7350 5200
-Wire Wire Line
-	8000 3450 8000 4000
-Connection ~ 8000 4000
-Wire Wire Line
-	8000 4000 8000 4600
-Connection ~ 8000 4600
-Wire Wire Line
-	8000 4600 8000 5200
-Wire Wire Line
-	5400 3450 5400 4000
-Connection ~ 5400 4000
-Wire Wire Line
-	5400 4000 5400 4600
-Connection ~ 5400 4600
-Wire Wire Line
-	5400 4600 5400 5200
-Connection ~ 5400 5200
-Wire Wire Line
-	5400 5200 5400 5950
-Wire Wire Line
-	6100 3450 6100 4000
-Wire Wire Line
-	6100 5950 6050 5950
-Text GLabel 4800 1100 0    50   Input ~ 0
-COL0
-Text GLabel 4800 1200 0    50   Input ~ 0
-COL1
-Text GLabel 4800 1500 0    50   Input ~ 0
-COL2
-Text GLabel 4800 1600 0    50   Input ~ 0
-COL3
-Text GLabel 4800 1700 0    50   Input ~ 0
-COL4
-Text GLabel 6200 1500 2    50   Input ~ 0
-COL5
-Text GLabel 6200 1600 2    50   Input ~ 0
-COL6
-Text GLabel 6200 1700 2    50   Input ~ 0
-COL7
-Text GLabel 6200 1800 2    50   Input ~ 0
-COL8
-Text GLabel 6200 1900 2    50   Input ~ 0
-COL9
-Text GLabel 4800 1800 0    50   Input ~ 0
-ROW0
-Text GLabel 4800 1900 0    50   Input ~ 0
-ROW1
-Text GLabel 4800 2000 0    50   Input ~ 0
-ROW2
-Text GLabel 4800 2100 0    50   Input ~ 0
-ROW3
-Wire Wire Line
-	6050 4000 6100 4000
-Connection ~ 6100 4000
-Wire Wire Line
-	6100 4000 6100 4600
-Wire Wire Line
-	6050 4600 6100 4600
-Connection ~ 6100 4600
-Wire Wire Line
-	6100 4600 6100 5200
-Wire Wire Line
-	6050 5200 6100 5200
-Connection ~ 6100 5200
-Wire Wire Line
-	6100 5200 6100 5950
 $EndSCHEMATC

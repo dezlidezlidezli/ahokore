@@ -1,5 +1,5 @@
 (fp_lib_table
   (lib (name Keebio-Parts)(type KiCad)(uri /Users/malakai/Documents/ahokore/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name custom-parts)(type KiCad)(uri /Users/malakai/Documents/ahokore/custom-parts.pretty)(options "")(descr ""))
-  (lib (name switchfootprints)(type KiCad)(uri /Users/malakai/Documents/ahokore/keyswitches.pretty)(options "")(descr ""))
+  (lib (name switchfootprints)(type KiCad)(uri /Users/malakai/Documents/ahokore/switches.pretty)(options "")(descr ""))
 )
