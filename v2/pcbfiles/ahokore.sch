@@ -459,7 +459,7 @@ F 3 "" H 7700 1950 50  0001 C CNN
 	1    7700 1950
 	1    0    0    -1  
 $EndComp
-Text GLabel 8000 1550 2    50   Input ~ 0
+Text GLabel 8350 1550 2    50   Input ~ 0
 VDD_NRF
 $Comp
 L Transistor_FET:AO3401A Q1
@@ -538,8 +538,6 @@ Wire Wire Line
 Wire Wire Line
 	7100 1400 7100 1450
 Connection ~ 7100 1450
-Wire Wire Line
-	7100 1450 7400 1450
 Text GLabel 1100 6300 3    50   Input ~ 0
 VDD_NRF
 $Comp
@@ -1816,7 +1814,7 @@ U 1 1 6079E056
 P 3450 7000
 F 0 "BT1" V 3195 7050 50  0000 C CNN
 F 1 "Battery_Cell" V 3286 7050 50  0000 C CNN
-F 2 "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal" V 3450 7060 50  0001 C CNN
+F 2 "custom-parts:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal" V 3450 7060 50  0001 C CNN
 F 3 "~" V 3450 7060 50  0001 C CNN
 	1    3450 7000
 	0    1    1    0   
@@ -1971,4 +1969,66 @@ Text GLabel 2300 5600 2    50   Input ~ 0
 ROW1
 Text GLabel 2300 5500 2    50   Input ~ 0
 ROW2
+Wire Wire Line
+	7100 1450 7250 1450
+$Comp
+L Device:C_Small C4
+U 1 1 60317035
+P 7050 1750
+F 0 "C4" H 7142 1796 50  0000 L CNN
+F 1 "1uF" H 7142 1705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 7050 1750 50  0001 C CNN
+F 3 "~" H 7050 1750 50  0001 C CNN
+	1    7050 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7050 1650 7250 1650
+Wire Wire Line
+	7250 1650 7250 1450
+Connection ~ 7250 1450
+Wire Wire Line
+	7250 1450 7400 1450
+Wire Wire Line
+	7050 1850 7050 1950
+$Comp
+L power:GND #PWR0103
+U 1 1 6032FF88
+P 7050 1950
+F 0 "#PWR0103" H 7050 1700 50  0001 C CNN
+F 1 "GND" H 7055 1777 50  0000 C CNN
+F 2 "" H 7050 1950 50  0001 C CNN
+F 3 "" H 7050 1950 50  0001 C CNN
+	1    7050 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C3
+U 1 1 60332105
+P 8100 1650
+F 0 "C3" H 8192 1696 50  0000 L CNN
+F 1 "1uF" H 8192 1605 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 8100 1650 50  0001 C CNN
+F 3 "~" H 8100 1650 50  0001 C CNN
+	1    8100 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 1750 8100 1850
+$Comp
+L power:GND #PWR0104
+U 1 1 6033210C
+P 8100 1850
+F 0 "#PWR0104" H 8100 1600 50  0001 C CNN
+F 1 "GND" H 8105 1677 50  0000 C CNN
+F 2 "" H 8100 1850 50  0001 C CNN
+F 3 "" H 8100 1850 50  0001 C CNN
+	1    8100 1850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8000 1550 8100 1550
+Connection ~ 8100 1550
+Wire Wire Line
+	8100 1550 8350 1550
 $EndSCHEMATC
