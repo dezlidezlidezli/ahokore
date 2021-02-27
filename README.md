@@ -6,6 +6,6 @@ Ahokore is a 36-key one-piece split keyboard, with full wireless functionality. 
 
 V1 is tested to be fully working, and uses a nice!nano.
 
-V2 protypes have been ordered
+V2 protypes have been ordered, and will be soon tested. 
 
 All work in this repository is released into the public domain. See the license file for more details. 
