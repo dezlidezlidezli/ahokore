@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name kicad-keyboard-parts)(type Legacy)(uri "/Users/malakai/Documents/holyiot/kicad-keyboard-parts.pretty/Schematic Library/kicad-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name custom-parts)(type Legacy)(uri /Users/malakai/Documents/ahokore/custom-parts.lib)(options "")(descr ""))
-)

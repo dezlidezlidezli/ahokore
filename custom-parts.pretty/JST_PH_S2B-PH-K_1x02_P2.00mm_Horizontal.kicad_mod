@@ -1,6 +1,7 @@
-(module JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal (layer F.Cu) (tedit 603086AF)
+(module JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal (layer F.Cu) (tedit 604F1249)
   (descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST PH top entry")
+  (attr smd)
   (fp_text reference BT1 (at 0 -5.8) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )

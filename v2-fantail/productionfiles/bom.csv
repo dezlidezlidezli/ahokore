@@ -1,0 +1,24 @@
+Item #,Designator,Quantity,Manufacturer,Mfg Part #,Description/Value,Package/Footprint,Type,Substitute for compatible/comparable alternative?
+1,SW1,1,Schurter Inc.,SWITCH TACTILE SPST-NO 0.05A 12V 6mmx6mm,SW_SPST,6mmx6mm switch,THT,Yes
+2,BT1,1,JST Sales America Inc.,S2B-PH-K-S(LF)(SN),"Connector Header Through Hole, Right Angle 2 position 0.079"" (2.00mm)",JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,THT,No
+3,SW38,1,C&K,OS102011MA1QN1,SWITCH SLIDE SPDT 100MA 12V,OS102011MA1QN1,THT,No
+4,USB1,1,Korean Hroparts Elec,TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,THT + USB (connector),No
+5,D40,1,Leiditech,SR05,5V 6V 23V 3A SOT-143 TVS,SOT-143,SMD,Yes
+6,"C4,C3",2,Samsung Electro-Mechanics ,CL21B105KBFNNNE,1uF ±10% 50V X7R 0805 Capacitors,0805,SMD,Yes
+7,C2,1,FH(Guangdong Fenghua Advanced Tech),1206B472K202NT,4.7nF ±10% 2kV X7R 1206 Capacitor,1206,SMD,Yes
+8,"R9,R4",2,Uniroyal Elec,0805W8F1001T5E,1kΩ ±1% 0.125W ±100ppm/℃ 0805 Chip Resistor,0805,SMD,Yes
+9,D39,1,Hubei KENTO Elec ,17-21SUYC/TR8,Yellow 592~594nm 0805 LED,0805,SMD,Yes
+10,U4,1,Holyiot,YJ-18010,nRF52840_holyiot_18010,nRF52840_holyiot_18010,SMD,No
+11,"D33,D8,D14,D38,D37,D36,D35,D34,D32,D31,D30,D29,D28,D27,D26,D25,D24,D23,D22,D21,D20,D19,D18,D17,D16,D15,D13,D12,D11,D10,D9,D7,D6,D5,D4,D3",36,Diotec,1N4148W,Diode Standard 75V 150mA Surface Mount SOD-123F,SOD-123,SMD,Yes
+12,U3,1,"Youtai Semiconductor Co., Ltd.",TP4054,SOT-23-5L PMIC - Battery Management ,SOT-23-5,SMD,Yes
+13,U2,1,Diodes Incorporated,AP2112K-3.3TRG1,Fixed 6V 3.3V 400mV @ 600mA SOT-25 Dropout Regulators(LDO) ,SOT-23-5,SMD,Yes
+14,R8,1,Uniroyal Elec,0805W8F2004T5E,2MΩ ±1% 0.125W ±100ppm/℃ 0805 Chip Resistor,0805,SMD,Yes
+15,R7,1,Uniroyal Elec,0805W8F8063T5E,806kΩ ±1% 0.125W ±100ppm/℃ 0805 Chip Resistor,0805,SMD,Yes
+16,R6,1,Uniroyal Elec,0805W8F1004T5E,1MΩ ±1% 0.125W ±100ppm/℃ 0805 Chip Resistor,0805,SMD,Yes
+17,"R5,R1",2,Uniroyal Elec,0805W8F5101T5E,5.1kΩ ±1% 0.125W ±100ppm/℃ 0805 Chip Resisto,0805,SMD,Yes
+18,"R3,R2",2,Uniroyal Elec,0805W8F1002T5E,10kΩ ±1% 0.125W ±100ppm/℃ 0805 Chip Resistor,0805,SMD,Yes
+19,Q1,1,BORN,AO3401A,"P-Channel -30V 4.2A 2V @ 250uA 50mΩ @ 4.1A,10V 1.4W SOT-23 MOSFET",SOT-23,SMD,Yes
+20,F1,1,Littelfuse,1206L050/15YR,Polymeric 15V 1A 100ms 750mΩ 1206 PTC Resettable Fuses,1206,SMD,Yes
+21,D2,1,Foshan NationStar Optoelectronics ,NCD0805R1,Red 615~630nm 0805 Light Emitting Diodes (LED) ,0805,SMD,Yes
+22,D1,1,LGE,1N5819W,40V 1A 900mV @ 3A SOD-123 Schottky Barrier Diodes (SBD),SOD-123,SMD,Yes
+23,C1,1,Samsung Electro-Mechanics ,CL21A475KAQNNNE,4.7uF ±10% 25V X5R 0805 Capacitors MLCC,805,SMD,Yes

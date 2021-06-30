@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name kicad-keyboard-parts)(type KiCad)(uri /Users/malakai/Documents/ahokore/v2/kicad-keyboard-parts.pretty)(options "")(descr ""))
-  (lib (name custom-parts)(type KiCad)(uri /Users/malakai/Documents/ahokore/custom-parts.pretty)(options "")(descr ""))
-  (lib (name switches)(type KiCad)(uri /Users/malakai/Documents/ahokore/switches.pretty)(options "")(descr ""))
-)
