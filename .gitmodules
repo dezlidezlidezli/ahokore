@@ -7,6 +7,12 @@
 [submodule "v2-fantail/pcbfiles/kicad-keyboard-parts.pretty"]
 	path = v2-fantail/pcbfiles/kicad-keyboard-parts.pretty
 	url = https://malakaiking@github.com/ebastler/kicad-keyboard-parts.pretty
-[submodule "v2-fantail/pcbfiles/keyboard_footprints"]
-	path = v2-fantail/pcbfiles/keyboard_footprints
-	url = https://malakaiking@github.com/pierrechevalier83/keyboard_footprints/
+[submodule "v2-proto/pcbfiles/kicad-keyboard-parts.pretty"]
+	path = v2-proto/pcbfiles/kicad-keyboard-parts.pretty
+	url = https://malakaiking@github.com/ebastler/kicad-keyboard-parts.pretty
+[submodule "v2-fantail/pcbfiles/keyboard_parts"]
+	path = v2-fantail/pcbfiles/keyboard_parts
+	url = https://malakaiking@github.com/pierrechevalier83/keyboard_footprints
+[submodule "v2-proto/pcbfiles/keyboard_parts"]
+	path = v2-proto/pcbfiles/keyboard_parts
+	url = https://malakaiking@github.com/pierrechevalier83/keyboard_footprints
