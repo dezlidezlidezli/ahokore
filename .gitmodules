@@ -4,9 +4,9 @@
 [submodule "v1/keebio-parts.pretty"]
 	path = v1/keebio-footprints.pretty
 	url = https://malakaiking@github.com/keebio/Keebio-Parts.pretty
-[submodule "v2-fantail/kicad-keyboard-parts.pretty"]
-	path = v2-fantail/kicad-keyboard-parts.pretty
+[submodule "v2-fantail/pcbfiles/kicad-keyboard-parts.pretty"]
+	path = v2-fantail/pcbfiles/kicad-keyboard-parts.pretty
 	url = https://malakaiking@github.com/ebastler/kicad-keyboard-parts.pretty
-[submodule "v2-fantail/keyboard_footprints"]
-	path = v2-fantail/keyboard_footprints
+[submodule "v2-fantail/pcbfiles/keyboard_footprints"]
+	path = v2-fantail/pcbfiles/keyboard_footprints
 	url = https://malakaiking@github.com/pierrechevalier83/keyboard_footprints/
