@@ -1,9 +1,9 @@
-[submodule "keebio-components"]
-	path = keebio-components
-	url = https://github.com/keebio/keebio-components
-[submodule "Keebio-Parts.pretty"]
-	path = Keebio-Parts.pretty
-	url = https://github.com/keebio/Keebio-Parts.pretty
-[submodule "keyswitches.pretty"]
-	path = keyswitches.pretty
-	url = https://github.com/daprice/keyswitches.pretty
+[submodule "v1/keebio-components"]
+	path = v1/keebio-components
+	url = https://malakaiking@github.com/keebio/keebio-components.git
+[submodule "v1/keebio-parts.pretty"]
+	path = v1/keebio-footprints.pretty
+	url = https://malakaiking@github.com/keebio/Keebio-Parts.pretty
+[submodule "v2-fantail/kicad-keyboard-parts.pretty"]
+	path = v2-fantail/bigthonk
+	url = https://github.com/ebastler/kicad-keyboard-parts.pretty

@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAV70_Small
+D Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf
+$ENDCMP
+#
 $CMP DW01A
 D Single cell Li-Ion/Po battery protection IC
 K li-ion li-po battery protection
@@ -12,6 +18,12 @@ K dual n-channel mosfet
 F https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-FS8205_C32254.pdf
 $ENDCMP
 #
+$CMP SK6812MINI-E
+D Reverse-mount RGB LED with integrated controller
+K RGB LED NeoPixel Mini addressable
+F https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+$ENDCMP
+#
 $CMP TP4056
 D Standalone Linear Li-lon Battery Charger with Thermal Protection
 K battery charging li-ion li-po
@@ -22,6 +34,12 @@ $CMP TXB0101
 D 1-Bit Bidirectional Voltage-Level Translator
 K Level-Shifter CMOS-TTL-Translation
 F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TXB0101DCKR_C324081.pdf
+$ENDCMP
+#
+$CMP WS2812B-MINI
+D RGB LED with integrated controller
+K RGB LED NeoPixel Mini addressable
+F https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
 $ENDCMP
 #
 $CMP XC6206PxxxMR-Regulator_Linear
